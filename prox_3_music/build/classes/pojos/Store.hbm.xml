@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 15-ene-2020 18:47:42 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="pojos.Store" table="store" catalog="music" optimistic-lock="version">
+        <id name="idStore" type="java.lang.Integer">
+            <column name="id_store" />
+            <generator class="identity" />
+        </id>
+        <property name="store" type="string">
+            <column name="store" length="100" not-null="true">
+                <comment>Store name</comment>
+            </column>
+        </property>
+        <set name="albums" table="album_store" inverse="true" lazy="true" fetch="select">
+            <key>
+                <column name="id_store" not-null="true" />
+            </key>
+            <many-to-many entity-name="pojos.Album">
+                <column name="id_album" not-null="true" />
+            </many-to-many>
+        </set>
+    </class>
+</hibernate-mapping>

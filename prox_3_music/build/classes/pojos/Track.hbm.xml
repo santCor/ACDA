@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 15-ene-2020 18:47:42 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="pojos.Track" table="track" catalog="music" optimistic-lock="version">
+        <id name="idTrack" type="java.lang.Integer">
+            <column name="id_track" />
+            <generator class="identity" />
+        </id>
+        <many-to-one name="album" class="pojos.Album" fetch="select">
+            <column name="id_album" not-null="true" />
+        </many-to-one>
+        <property name="trackName" type="string">
+            <column name="track_name" />
+        </property>
+        <property name="trackNumber" type="java.lang.Byte">
+            <column name="track_number" />
+        </property>
+        <property name="length" type="time">
+            <column name="length" length="8" />
+        </property>
+    </class>
+</hibernate-mapping>
