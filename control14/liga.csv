@@ -1,0 +1,805 @@
+30/08/12,South Carolina,20,Vanderbilt,30
+30/08/12,U-C-F,56,Akron,14
+30/08/12,Eastern Michigan,26,Ball State,37
+30/08/12,Massachusetts,0,Connecticut,37
+30/08/12,U.C.L.A.,49,Rice,24
+30/08/12,Washington State,6,Brigham Young,30
+30/08/12,Minnesota,30,Nevada-Las Vegas,27
+30/08/12,Towson,21,Kent State,41
+30/08/12,S E Missouri St,27,Central Michigan,38
+30/08/12,Northern Colorado,0,Utah,41
+30/08/12,McNeese State,27,Middle Tennessee,21
+30/08/12,Southern Utah,3,Utah State,34
+30/08/12,Sacramento State,19,New Mexico State,49
+30/08/12,Eastern Washington,20,Idaho,3
+30/08/12,Northern Arizona,6,Arizona State,63
+31/08/12,Tennessee,35,No Carolina State,21
+31/08/12,Boise State,13,Michigan State,17
+31/08/12,San Jose State,17,Stanford,20
+31/08/12,Villanova,10,Temple,41
+31/08/12,Wagner,3,Florida Atlantic,7
+01/09/12,Notre Dame,50,Navy,10
+01/09/12,Marshall,34,West Virginia,69
+01/09/12,Ohio,24,Penn State,14
+01/09/12,Northwestern,42,Syracuse,41
+01/09/12,Miami-Ohio,10,Ohio State,56
+01/09/12,Western Michigan,7,Illinois,24
+01/09/12,Tulsa,23,Iowa State,38
+01/09/12,Nevada-Reno,31,California,24
+01/09/12,Southern Miss,20,Nebraska,49
+01/09/12,Miami-Florida,41,Boston College,32
+01/09/12,Iowa,18,Northern Illinois,17
+01/09/12,Colorado,17,Colorado State,22
+01/09/12,Buffalo,23,Georgia,45
+01/09/12,Bowling Green,14,Florida,27
+01/09/12,Wyoming,17,Texas,37
+01/09/12,Texas State,30,Houston,13
+01/09/12,Clemson,26,Auburn,19
+01/09/12,Hawaii,10,Southern Cal,49
+01/09/12,Michigan,14,Alabama,41
+01/09/12,Rutgers,24,Tulane,12
+01/09/12,Oklahoma,24,UTEP,7
+01/09/12,Toledo,17,Arizona,24
+01/09/12,San Diego State,12,Washington,21
+01/09/12,Troy,39,U-A-B,29
+01/09/12,Florida Intl,26,Duke,46
+01/09/12,North Texas,14,Louisiana State,41
+01/09/12,Texas-San Antonio,33,South Alabama,31
+01/09/12,Arkansas State,34,Oregon,57
+01/09/12,Appalachian State,13,East Carolina,35
+01/09/12,Jacksonville St,24,Arkansas,49
+01/09/12,South Dakota State,17,Kansas,31
+01/09/12,Missouri State,9,Kansas State,51
+01/09/12,Idaho State,21,Air Force,49
+01/09/12,William + Mary,6,Maryland,7
+01/09/12,Richmond,19,Virginia,43
+01/09/12,Eastern Kentucky,6,Purdue,48
+01/09/12,Northern Iowa,21,Wisconsin,26
+01/09/12,Murray State,3,Florida State,69
+01/09/12,Youngstown State,31,Pittsburgh,17
+01/09/12,Liberty,17,Wake Forest,20
+01/09/12,Lamar,0,UL-Lafayette,40
+01/09/12,Tennessee-Martin,20,Memphis,17
+01/09/12,Chattanooga,13,South Florida,34
+01/09/12,Central Arkansas,27,Mississippi,49
+01/09/12,Austin Peay,10,Western Kentucky,49
+01/09/12,Jackson State,9,Mississippi State,56
+01/09/12,S E Louisiana,10,Missouri,62
+01/09/12,Savannah State,0,Oklahoma State,84
+01/09/12,Northwestern St(LA),6,Texas Tech,44
+01/09/12,Indiana State,17,Indiana,24
+01/09/12,Southern Univ,21,New Mexico,66
+01/09/12,Weber State,10,Fresno State,37
+01/09/12,Elon,0,North Carolina,62
+02/09/12,Kentucky,14,Louisville,32
+02/09/12,S-M-U,24,Baylor,59
+03/09/12,Georgia Tech,17,Virginia Tech,20
+06/09/12,Pittsburgh,10,Cincinnati,34
+07/09/12,Utah,20,Utah State,27
+08/09/12,Penn State,16,Virginia,17
+08/09/12,Indiana,45,Massachusetts,6
+08/09/12,Air Force,25,Michigan,31
+08/09/12,New Mexico State,24,Ohio,51
+08/09/12,Kent State,14,Kentucky,47
+08/09/12,U-C-F,16,Ohio State,31
+08/09/12,Idaho,13,Bowling Green,21
+08/09/12,Ball State,27,Clemson,52
+08/09/12,Rice,25,Kansas,24
+08/09/12,Toledo,34,Wyoming,31
+08/09/12,North Carolina,27,Wake Forest,28
+08/09/12,Georgia,41,Missouri,20
+08/09/12,Miami-Florida,13,Kansas State,52
+08/09/12,Michigan State,41,Central Michigan,7
+08/09/12,Southern Cal,42,Syracuse,29
+08/09/12,Purdue,17,Notre Dame,20
+08/09/12,South Florida,32,Nevada-Reno,31
+08/09/12,Wisconsin,7,Oregon State,10
+08/09/12,Fresno State,25,Oregon,42
+08/09/12,East Carolina,10,South Carolina,48
+08/09/12,Iowa State,9,Iowa,6
+08/09/12,Washington,3,Louisiana State,41
+08/09/12,UTEP,10,Mississippi,28
+08/09/12,Auburn,10,Mississippi State,28
+08/09/12,Texas Tech,58,Texas State,10
+08/09/12,Maryland,36,Temple,27
+08/09/12,New Mexico,0,Texas,45
+08/09/12,Florida,20,Texas A+M,17
+08/09/12,Louisiana Tech,56,Houston,49
+08/09/12,Nebraska,30,U.C.L.A.,36
+08/09/12,Army,7,San Diego State,42
+08/09/12,No Carolina State,10,Connecticut,7
+08/09/12,Tulane,10,Tulsa,45
+08/09/12,Vanderbilt,13,Northwestern,23
+08/09/12,Duke,13,Stanford,50
+08/09/12,Oklahoma State,38,Arizona,59
+08/09/12,Illinois,14,Arizona State,45
+08/09/12,Akron,38,Florida Intl,41
+08/09/12,UL-Lafayette,37,Troy,24
+08/09/12,Florida Atlantic,17,Middle Tennessee,31
+08/09/12,Memphis,28,Arkansas State,33
+08/09/12,UL-Monroe,34,Arkansas,31
+08/09/12,Western Kentucky,0,Alabama,35
+08/09/12,New Hampshire,7,Minnesota,44
+08/09/12,Southern Illinois,14,Miami-Ohio,30
+08/09/12,Maine,3,Boston College,34
+08/09/12,Austin Peay,7,Virginia Tech,42
+08/09/12,North Dakota St,22,Colorado State,7
+08/09/12,Southern Utah,31,California,50
+08/09/12,Weber State,13,Brigham Young,45
+08/09/12,Sacramento State,30,Colorado,28
+08/09/12,Missouri State,7,Louisville,35
+08/09/12,Eastern Washington,20,Washington State,24
+08/09/12,Howard,0,Rutgers,26
+08/09/12,Savannah State,0,Florida State,55
+08/09/12,Morgan State,34,Buffalo,56
+08/09/12,Western Carolina,24,Marshall,52
+08/09/12,Nicholls State,3,South Alabama,9
+08/09/12,Presbyterian,3,Georgia Tech,59
+08/09/12,Texas Southern,7,North Texas,34
+08/09/12,Eastern Illinois,21,Western Michigan,52
+08/09/12,Tennessee-Martin,7,Northern Illinois,35
+08/09/12,Florida A+M,13,Oklahoma,69
+08/09/12,Georgia State,13,Tennessee,51
+08/09/12,Illinois State,31,Eastern Michigan,14
+08/09/12,Stephen F Austin,0,S-M-U,52
+08/09/12,Grambling,0,Texas Christian,56
+08/09/12,UC-Davis,13,San Jose State,45
+08/09/12,Northern Arizona,17,Nevada-Las Vegas,14
+08/09/12,Texas A+M-Commerce,16,Texas-San Antonio,27
+13/09/12,Rutgers,23,South Florida,13
+14/09/12,Washington State,35,Nevada-Las Vegas,27
+15/09/12,Navy,7,Penn State,34
+15/09/12,Massachusetts,13,Michigan,63
+15/09/12,Boston College,13,Northwestern,22
+15/09/12,Eastern Michigan,16,Purdue,54
+15/09/12,Northern Illinois,41,Army,40
+15/09/12,Wake Forest,0,Florida State,52
+15/09/12,Connecticut,24,Maryland,21
+15/09/12,Texas A+M,48,S-M-U,3
+15/09/12,Virginia Tech,17,Pittsburgh,35
+15/09/12,Southern Cal,14,Stanford,21
+15/09/12,East Carolina,24,Southern Miss,14
+15/09/12,California,28,Ohio State,35
+15/09/12,Texas,66,Mississippi,31
+15/09/12,Arizona State,20,Missouri,24
+15/09/12,Brigham Young,21,Utah,24
+15/09/12,North Carolina,34,Louisville,39
+15/09/12,Virginia,20,Georgia Tech,56
+15/09/12,Alabama,52,Arkansas,0
+15/09/12,Miami-Ohio,12,Boise State,39
+15/09/12,Texas Christian,20,Kansas,6
+15/09/12,Rice,37,Louisiana Tech,56
+15/09/12,Western Michigan,23,Minnesota,28
+15/09/12,Bowling Green,15,Toledo,27
+15/09/12,U-A-B,6,South Carolina,49
+15/09/12,Ohio,27,Marshall,24
+15/09/12,New Mexico,14,Texas Tech,49
+15/09/12,Florida,37,Tennessee,20
+15/09/12,Colorado State,20,San Jose State,40
+15/09/12,Utah State,14,Wisconsin,16
+15/09/12,Idaho,14,Louisiana State,63
+15/09/12,Notre Dame,20,Michigan State,3
+15/09/12,Ball State,41,Indiana,39
+15/09/12,Colorado,14,Fresno State,69
+15/09/12,New Mexico State,28,UTEP,41
+15/09/12,Houston,6,U.C.L.A.,37
+15/09/12,Florida Atlantic,20,Georgia,56
+15/09/12,Arkansas State,13,Nebraska,42
+15/09/12,South Alabama,7,No Carolina State,31
+15/09/12,Florida Intl,20,U-C-F,33
+15/09/12,North Texas,24,Kansas State,65
+15/09/12,UL-Lafayette,21,Oklahoma State,35
+15/09/12,Middle Tennessee,48,Memphis,30
+15/09/12,Western Kentucky,32,Kentucky,31
+15/09/12,Mississippi State,30,Troy,24
+15/09/12,UL-Monroe,28,Auburn,31
+15/09/12,Charleston Southern,0,Illinois,44
+15/09/12,Bethune-Cookman,10,Miami-Florida,38
+15/09/12,Western Illinois,3,Iowa State,37
+15/09/12,Presbyterian,0,Vanderbilt,58
+15/09/12,Sam Houston State,23,Baylor,48
+15/09/12,Texas-San Antonio,38,Georgia State,14
+15/09/12,Tennessee Tech,14,Oregon,63
+15/09/12,Furman,7,Clemson,41
+15/09/12,West Virginia,42,James Madison,12
+15/09/12,Northern Iowa,16,Iowa,27
+15/09/12,Morgan State,6,Akron,66
+15/09/12,Northwestern St(LA),34,Nevada-Reno,45
+15/09/12,Stony Brook,17,Syracuse,28
+15/09/12,Portland State,13,Washington,52
+15/09/12,Cal-San Luis Obispo,24,Wyoming,22
+15/09/12,No Carolina Central,17,Duke,54
+15/09/12,Delaware State,7,Cincinnati,23
+15/09/12,Nicholls State,16,Tulsa,66
+15/09/12,So Carolina State,0,Arizona,56
+15/09/12,North Dakota,41,San Diego State,49
+15/09/12,Lamar,2,Hawaii,54
+19/09/12,Kent State,23,Buffalo,7
+20/09/12,Brigham Young,6,Boise State,7
+21/09/12,Baylor,47,UL-Monroe,42
+22/09/12,Army,37,Wake Forest,49
+22/09/12,Clemson,37,Florida State,49
+22/09/12,South Florida,27,Ball State,31
+22/09/12,Memphis,14,Duke,38
+22/09/12,Eastern Michigan,7,Michigan State,23
+22/09/12,Bowling Green,0,Virginia Tech,37
+22/09/12,Central Michigan,32,Iowa,31
+22/09/12,U-A-B,15,Ohio State,29
+22/09/12,East Carolina,6,North Carolina,27
+22/09/12,Temple,13,Penn State,24
+22/09/12,Maryland,21,West Virginia,31
+22/09/12,UTEP,26,Wisconsin,37
+22/09/12,Massachusetts,16,Miami-Ohio,27
+22/09/12,Vanderbilt,3,Georgia,48
+22/09/12,Utah State,31,Colorado State,19
+22/09/12,Rutgers,35,Arkansas,26
+22/09/12,Fresno State,26,Tulsa,27
+22/09/12,Marshall,54,Rice,51
+22/09/12,Kansas,23,Northern Illinois,30
+22/09/12,Arizona,0,Oregon,49
+22/09/12,Oregon State,27,U.C.L.A.,20
+22/09/12,Virginia,7,Texas Christian,27
+22/09/12,California,9,Southern Cal,27
+22/09/12,Colorado,35,Washington State,34
+22/09/12,Louisiana State,12,Auburn,10
+22/09/12,Miami-Florida,42,Georgia Tech,36
+22/09/12,Wyoming,40,Idaho,37
+22/09/12,Kentucky,0,Florida,38
+22/09/12,Connecticut,24,Western Michigan,30
+22/09/12,Missouri,10,South Carolina,31
+22/09/12,Michigan,6,Notre Dame,13
+22/09/12,Syracuse,10,Minnesota,17
+22/09/12,Kansas State,24,Oklahoma,19
+22/09/12,New Mexico,27,New Mexico State,14
+22/09/12,Akron,26,Tennessee,47
+22/09/12,Mississippi,39,Tulane,0
+22/09/12,Louisiana Tech,52,Illinois,24
+22/09/12,Utah,7,Arizona State,37
+22/09/12,San Jose State,38,San Diego State,34
+22/09/12,Air Force,35,Nevada-Las Vegas,38
+22/09/12,Nevada-Reno,69,Hawaii,24
+22/09/12,Florida Atlantic,7,Alabama,40
+22/09/12,Southern Miss,17,Western Kentucky,42
+22/09/12,Troy,14,North Texas,7
+22/09/12,Louisville,28,Florida Intl,21
+22/09/12,South Alabama,10,Mississippi State,30
+22/09/12,South Dakota,7,Northwestern,38
+22/09/12,Norfolk State,10,Ohio,44
+22/09/12,Idaho State,7,Nebraska,73
+22/09/12,So Carolina State,14,Texas A+M,70
+22/09/12,Stephen F Austin,37,Texas State,41
+22/09/12,Virginia Military,3,Navy,41
+22/09/12,Gardner-Webb,10,Pittsburgh,55
+22/09/12,The Citadel,14,No Carolina State,52
+22/09/12,Alcorn State,0,Arkansas State,56
+22/09/12,Coastal Carolina,28,Toledo,38
+22/09/12,NW Oklahoma,3,Texas-San Antonio,56
+27/09/12,Stanford,13,Washington,17
+28/09/12,Hawaii,0,Brigham Young,47
+29/09/12,Cincinnati,27,Virginia Tech,24
+29/09/12,Buffalo,17,Connecticut,24
+29/09/12,Penn State,35,Illinois,7
+29/09/12,Minnesota,13,Iowa,31
+29/09/12,Texas Tech,24,Iowa State,13
+29/09/12,Clemson,45,Boston College,31
+29/09/12,Louisiana Tech,44,Virginia,38
+29/09/12,Ohio,37,Massachusetts,34
+29/09/12,Ball State,43,Kent State,45
+29/09/12,Idaho,0,North Carolina,66
+29/09/12,Indiana,29,Northwestern,44
+29/09/12,Marshall,41,Purdue,51
+29/09/12,Duke,34,Wake Forest,27
+29/09/12,South Carolina,38,Kentucky,17
+29/09/12,Colorado State,21,Air Force,42
+29/09/12,Texas Christian,24,S-M-U,16
+29/09/12,Central Michigan,24,Northern Illinois,55
+29/09/12,U.C.L.A.,42,Colorado,14
+29/09/12,San Jose State,12,Navy,0
+29/09/12,Oregon,51,Washington State,26
+29/09/12,Texas,41,Oklahoma State,36
+29/09/12,Arkansas,10,Texas A+M,58
+29/09/12,Baylor,63,West Virginia,70
+29/09/12,Ohio State,17,Michigan State,16
+29/09/12,Tennessee,44,Georgia,51
+29/09/12,Arizona State,27,California,17
+29/09/12,Oregon State,38,Arizona,35
+29/09/12,Mississippi,14,Alabama,33
+29/09/12,Miami-Ohio,56,Akron,49
+29/09/12,Missouri,21,U-C-F,16
+29/09/12,UTEP,18,East Carolina,28
+29/09/12,No Carolina State,37,Miami-Florida,44
+29/09/12,Florida State,30,South Florida,17
+29/09/12,Toledo,37,Western Michigan,17
+29/09/12,Nevada-Reno,34,Texas State,21
+29/09/12,Louisville,21,Southern Miss,17
+29/09/12,Texas-San Antonio,35,New Mexico State,14
+29/09/12,Wisconsin,27,Nebraska,30
+29/09/12,Tulsa,49,U-A-B,42
+29/09/12,Nevada-Las Vegas,13,Utah State,35
+29/09/12,Houston,35,Rice,14
+29/09/12,Boise State,32,New Mexico,29
+29/09/12,San Diego State,40,Fresno State,52
+29/09/12,Western Kentucky,26,Arkansas State,13
+29/09/12,Troy,31,South Alabama,10
+29/09/12,Florida Intl,20,UL-Lafayette,48
+29/09/12,North Texas,20,Florida Atlantic,14
+29/09/12,Middle Tennessee,49,Georgia Tech,28
+29/09/12,UL-Monroe,63,Tulane,10
+29/09/12,Stony Brook,23,Army,3
+29/09/12,Rhode Island,8,Bowling Green,48
+29/09/12,Towson,22,Louisiana State,38
+04/10/12,East Carolina,20,U-C-F,40
+04/10/12,Southern Cal,38,Utah,28
+04/10/12,Arkansas State,34,Florida Intl,20
+05/10/12,Pittsburgh,13,Syracuse,14
+05/10/12,Utah State,3,Brigham Young,6
+06/10/12,Navy,28,Air Force,21
+06/10/12,Michigan State,31,Indiana,27
+06/10/12,Northern Illinois,35,Ball State,23
+06/10/12,Boston College,31,Army,34
+06/10/12,Bowling Green,24,Akron,10
+06/10/12,Miami-Ohio,14,Cincinnati,52
+06/10/12,Georgia Tech,31,Clemson,47
+06/10/12,Virginia,17,Duke,42
+06/10/12,South Florida,28,Temple,37
+06/10/12,Northwestern,28,Penn State,39
+06/10/12,Kent State,41,Eastern Michigan,14
+06/10/12,Connecticut,3,Rutgers,19
+06/10/12,Florida State,16,No Carolina State,17
+06/10/12,Massachusetts,14,Western Michigan,52
+06/10/12,Vanderbilt,19,Missouri,15
+06/10/12,Texas A+M,30,Mississippi,27
+06/10/12,Virginia Tech,34,North Carolina,48
+06/10/12,Washington,21,Oregon,52
+06/10/12,Georgia,7,South Carolina,35
+06/10/12,West Virginia,48,Texas,45
+06/10/12,Iowa State,37,Texas Christian,23
+06/10/12,Illinois,14,Wisconsin,31
+06/10/12,Kansas,16,Kansas State,56
+06/10/12,U.C.L.A.,17,California,43
+06/10/12,Arkansas,24,Auburn,7
+06/10/12,Michigan,44,Purdue,13
+06/10/12,Wyoming,28,Nevada-Reno,35
+06/10/12,New Mexico State,18,Idaho,26
+06/10/12,Arizona,48,Stanford,54
+06/10/12,Oklahoma,41,Texas Tech,20
+06/10/12,Central Michigan,35,Toledo,50
+06/10/12,Boise State,40,Southern Miss,14
+06/10/12,Rice,10,Memphis,14
+06/10/12,Wake Forest,14,Maryland,19
+06/10/12,Mississippi State,27,Kentucky,14
+06/10/12,Washington State,6,Oregon State,19
+06/10/12,Nevada-Las Vegas,31,Louisiana Tech,58
+06/10/12,Tulsa,45,Marshall,38
+06/10/12,Miami-Florida,3,Notre Dame,41
+06/10/12,Buffalo,31,Ohio,38
+06/10/12,Nebraska,38,Ohio State,63
+06/10/12,Hawaii,14,San Diego State,52
+06/10/12,Fresno State,28,Colorado State,7
+06/10/12,Louisiana State,6,Florida,14
+06/10/12,Texas State,14,New Mexico,35
+06/10/12,S-M-U,17,UTEP,0
+06/10/12,Tulane,13,UL-Lafayette,41
+06/10/12,UL-Monroe,31,Middle Tennessee,17
+06/10/12,North Texas,21,Houston,44
+06/10/12,S E Louisiana,3,U-A-B,52
+11/10/12,Arizona State,51,Colorado,17
+11/10/12,UTEP,11,Tulsa,33
+11/10/12,Western Kentucky,31,Troy,26
+12/10/12,Navy,31,Central Michigan,13
+13/10/12,Texas,21,Oklahoma,63
+13/10/12,Iowa,19,Michigan State,16
+13/10/12,North Carolina,18,Miami-Florida,14
+13/10/12,Miami-Ohio,12,Bowling Green,37
+13/10/12,Kent State,31,Army,17
+13/10/12,Akron,28,Ohio,34
+13/10/12,Toledo,52,Eastern Michigan,47
+13/10/12,Maryland,27,Virginia,20
+13/10/12,Duke,20,Virginia Tech,41
+13/10/12,Wisconsin,38,Purdue,14
+13/10/12,Northwestern,21,Minnesota,13
+13/10/12,Syracuse,15,Rutgers,23
+13/10/12,Boston College,7,Florida State,51
+13/10/12,Temple,17,Connecticut,14
+13/10/12,Louisville,45,Pittsburgh,35
+13/10/12,Memphis,7,East Carolina,41
+13/10/12,Florida,31,Vanderbilt,17
+13/10/12,Air Force,28,Wyoming,27
+13/10/12,Western Michigan,24,Ball State,30
+13/10/12,Buffalo,3,Northern Illinois,45
+13/10/12,Idaho,7,Texas State,38
+13/10/12,Kansas State,27,Iowa State,21
+13/10/12,Auburn,20,Mississippi,41
+13/10/12,U-A-B,17,Houston,39
+13/10/12,Illinois,0,Michigan,45
+13/10/12,Fresno State,10,Boise State,20
+13/10/12,Southern Cal,24,Washington,14
+13/10/12,Oregon State,42,Brigham Young,24
+13/10/12,Alabama,42,Missouri,10
+13/10/12,Stanford,13,Notre Dame,20
+13/10/12,Utah State,49,San Jose State,27
+13/10/12,Kentucky,7,Arkansas,49
+13/10/12,Tennessee,31,Mississippi State,41
+13/10/12,South Carolina,21,Louisiana State,23
+13/10/12,California,31,Washington State,17
+13/10/12,West Virginia,14,Texas Tech,49
+13/10/12,Texas Christian,49,Baylor,21
+13/10/12,Southern Miss,31,U-C-F,38
+13/10/12,Oklahoma State,20,Kansas,14
+13/10/12,Ohio State,52,Indiana,49
+13/10/12,S-M-U,26,Tulane,27
+13/10/12,Texas-San Antonio,14,Rice,34
+13/10/12,Nevada-Reno,42,Nevada-Las Vegas,37
+13/10/12,Colorado State,14,San Diego State,38
+13/10/12,Utah,14,U.C.L.A.,21
+13/10/12,New Mexico,35,Hawaii,23
+13/10/12,Florida Atlantic,14,UL-Monroe,35
+13/10/12,South Alabama,29,Arkansas State,36
+13/10/12,Middle Tennessee,34,Florida Intl,30
+13/10/12,Texas A+M,59,Louisiana Tech,57
+13/10/12,Fordham,17,Cincinnati,49
+16/10/12,UL-Lafayette,23,North Texas,30
+18/10/12,Oregon,43,Arizona State,21
+18/10/12,Houston,42,S-M-U,72
+19/10/12,Connecticut,10,Syracuse,40
+20/10/12,Nebraska,29,Northwestern,28
+20/10/12,Minnesota,13,Wisconsin,38
+20/10/12,Army,38,Eastern Michigan,48
+20/10/12,Ball State,41,Central Michigan,30
+20/10/12,Bowling Green,24,Massachusetts,0
+20/10/12,Northern Illinois,37,Akron,7
+20/10/12,Georgia,29,Kentucky,24
+20/10/12,Wake Forest,16,Virginia,10
+20/10/12,North Carolina,30,Duke,33
+20/10/12,No Carolina State,20,Maryland,18
+20/10/12,Cincinnati,23,Toledo,29
+20/10/12,Boston College,17,Georgia Tech,37
+20/10/12,Rutgers,35,Temple,10
+20/10/12,New Mexico,23,Air Force,28
+20/10/12,San Jose State,52,Texas-San Antonio,24
+20/10/12,New Mexico State,7,Utah State,41
+20/10/12,Virginia Tech,17,Clemson,38
+20/10/12,Nevada-Las Vegas,7,Boise State,32
+20/10/12,Brigham Young,14,Notre Dame,17
+20/10/12,Alabama,44,Tennessee,13
+20/10/12,Stanford,21,California,3
+20/10/12,Washington,17,Arizona,52
+20/10/12,Purdue,22,Ohio State,29
+20/10/12,Michigan State,10,Michigan,12
+20/10/12,Indiana,30,Navy,31
+20/10/12,Texas Tech,56,Texas Christian,53
+20/10/12,Colorado,6,Southern Cal,50
+20/10/12,Florida State,33,Miami-Florida,20
+20/10/12,Utah,7,Oregon State,21
+20/10/12,Kansas State,55,West Virginia,14
+20/10/12,Louisiana State,24,Texas A+M,19
+20/10/12,South Carolina,11,Florida,44
+20/10/12,Auburn,13,Vanderbilt,17
+20/10/12,Western Michigan,24,Kent State,41
+20/10/12,Marshall,59,Southern Miss,24
+20/10/12,U-C-F,35,Memphis,17
+20/10/12,South Florida,25,Louisville,27
+20/10/12,Idaho,28,Louisiana Tech,70
+20/10/12,Iowa State,10,Oklahoma State,31
+20/10/12,Kansas,7,Oklahoma,52
+20/10/12,Baylor,50,Texas,56
+20/10/12,Pittsburgh,20,Buffalo,6
+20/10/12,East Carolina,42,U-A-B,35
+20/10/12,Penn State,38,Iowa,14
+20/10/12,Rice,24,Tulsa,28
+20/10/12,Tulane,20,UTEP,24
+20/10/12,Wyoming,14,Fresno State,42
+20/10/12,San Diego State,39,Nevada-Reno,38
+20/10/12,UL-Monroe,43,Western Kentucky,42
+20/10/12,Middle Tennessee,3,Mississippi State,45
+20/10/12,Florida Intl,37,Troy,38
+20/10/12,Florida Atlantic,34,South Alabama,37
+23/10/12,Arkansas State,50,UL-Lafayette,27
+25/10/12,Clemson,42,Wake Forest,13
+26/10/12,Cincinnati,31,Louisville,34
+26/10/12,Nevada-Reno,31,Air Force,48
+27/10/12,Navy,56,East Carolina,28
+27/10/12,Massachusetts,7,Vanderbilt,49
+27/10/12,Ohio,20,Miami-Ohio,23
+27/10/12,Ball State,30,Army,22
+27/10/12,Akron,14,Central Michigan,35
+27/10/12,Eastern Michigan,3,Bowling Green,24
+27/10/12,Northern Illinois,48,Western Michigan,34
+27/10/12,Temple,17,Pittsburgh,47
+27/10/12,Indiana,31,Illinois,17
+27/10/12,Purdue,28,Minnesota,44
+27/10/12,Iowa,17,Northwestern,28
+27/10/12,Duke,7,Florida State,48
+27/10/12,Maryland,17,Boston College,20
+27/10/12,Mississippi State,7,Alabama,38
+27/10/12,Utah State,48,Texas-San Antonio,17
+27/10/12,Hawaii,27,Colorado State,42
+27/10/12,Baylor,21,Iowa State,35
+27/10/12,Texas A+M,63,Auburn,21
+27/10/12,California,27,Utah,49
+27/10/12,Texas,21,Kansas,17
+27/10/12,Michigan State,16,Wisconsin,13
+27/10/12,Colorado,14,Oregon,70
+27/10/12,No Carolina State,35,North Carolina,43
+27/10/12,Boise State,45,Wyoming,14
+27/10/12,UTEP,35,Houston,45
+27/10/12,Brigham Young,41,Georgia Tech,17
+27/10/12,Florida,9,Georgia,17
+27/10/12,Kentucky,10,Missouri,33
+27/10/12,U.C.L.A.,45,Arizona State,43
+27/10/12,Southern Cal,36,Arizona,39
+27/10/12,Kent State,35,Rutgers,23
+27/10/12,Texas State,20,San Jose State,31
+27/10/12,Washington State,17,Stanford,24
+27/10/12,Ohio State,35,Penn State,23
+27/10/12,Oregon State,17,Washington,20
+27/10/12,Texas Tech,24,Kansas State,55
+27/10/12,Syracuse,37,South Florida,36
+27/10/12,Texas Christian,14,Oklahoma State,36
+27/10/12,U-C-F,54,Marshall,17
+27/10/12,Toledo,25,Buffalo,20
+27/10/12,Tennessee,35,South Carolina,38
+27/10/12,Mississippi,30,Arkansas,27
+27/10/12,Louisiana Tech,28,New Mexico State,14
+27/10/12,Notre Dame,30,Oklahoma,13
+27/10/12,U-A-B,45,Tulane,55
+27/10/12,Memphis,13,S-M-U,44
+27/10/12,Southern Miss,17,Rice,44
+27/10/12,Michigan,9,Nebraska,23
+27/10/12,Nevada-Las Vegas,13,San Diego State,24
+27/10/12,Fresno State,49,New Mexico,32
+27/10/12,South Alabama,24,UL-Monroe,38
+27/10/12,Western Kentucky,14,Florida Intl,6
+27/10/12,North Texas,21,Middle Tennessee,38
+27/10/12,Troy,27,Florida Atlantic,34
+01/11/12,Eastern Michigan,14,Ohio,45
+01/11/12,Virginia Tech,12,Miami-Florida,30
+01/11/12,Middle Tennessee,34,Western Kentucky,29
+02/11/12,Washington,21,California,13
+03/11/12,Penn State,34,Purdue,9
+03/11/12,Air Force,21,Army,41
+03/11/12,Akron,24,Kent State,35
+03/11/12,Vanderbilt,40,Kentucky,0
+03/11/12,Massachusetts,0,Northern Illinois,63
+03/11/12,Temple,17,Louisville,45
+03/11/12,Boston College,14,Wake Forest,28
+03/11/12,Houston,28,East Carolina,48
+03/11/12,Iowa,21,Indiana,24
+03/11/12,Georgia Tech,33,Maryland,13
+03/11/12,Clemson,56,Duke,20
+03/11/12,Tulsa,15,Arkansas,19
+03/11/12,New Mexico State,7,Auburn,42
+03/11/12,Stanford,48,Colorado,0
+03/11/12,Texas State,7,Utah State,38
+03/11/12,Alabama,21,Louisiana State,17
+03/11/12,Colorado State,31,Wyoming,45
+03/11/12,Virginia,33,No Carolina State,6
+03/11/12,Arizona State,26,Oregon State,36
+03/11/12,Missouri,7,Florida,14
+03/11/12,Nebraska,28,Michigan State,24
+03/11/12,Texas Christian,39,West Virginia,38
+03/11/12,Illinois,22,Ohio State,52
+03/11/12,Pittsburgh,26,Notre Dame,29
+03/11/12,Texas-San Antonio,27,Louisiana Tech,51
+03/11/12,San Jose State,42,Idaho,13
+03/11/12,S-M-U,17,U-C-F,42
+03/11/12,Connecticut,6,South Florida,13
+03/11/12,Western Michigan,42,Central Michigan,31
+03/11/12,Miami-Ohio,24,Buffalo,27
+03/11/12,Mississippi,10,Georgia,37
+03/11/12,Syracuse,24,Cincinnati,35
+03/11/12,Washington State,6,Utah,49
+03/11/12,U-A-B,27,Southern Miss,19
+03/11/12,Memphis,28,Marshall,38
+03/11/12,Michigan,35,Minnesota,13
+03/11/12,Oklahoma State,30,Kansas State,44
+03/11/12,Texas,31,Texas Tech,22
+03/11/12,Texas A+M,38,Mississippi State,13
+03/11/12,Kansas,14,Baylor,41
+03/11/12,Oklahoma,35,Iowa State,20
+03/11/12,Oregon,62,Southern Cal,51
+03/11/12,Rice,49,Tulane,47
+03/11/12,Hawaii,10,Fresno State,45
+03/11/12,Arizona,10,U.C.L.A.,66
+03/11/12,New Mexico,7,Nevada-Las Vegas,35
+03/11/12,San Diego State,21,Boise State,19
+03/11/12,Florida Atlantic,17,Navy,24
+03/11/12,Florida Intl,28,South Alabama,20
+03/11/12,Troy,48,Tennessee,55
+03/11/12,Arkansas State,37,North Texas,19
+03/11/12,UL-Lafayette,40,UL-Monroe,24
+06/11/12,Ball State," ",Toledo," "
+07/11/12,Bowling Green," ",Ohio," "
+08/11/12,Florida State," ",Virginia Tech," "
+08/11/12,UL-Monroe," ",Arkansas State," "
+09/11/12,Pittsburgh," ",Connecticut," "
+10/11/12,Northwestern," ",Michigan," "
+10/11/12,Maryland," ",Clemson," "
+10/11/12,Wake Forest," ",No Carolina State," "
+10/11/12,Army," ",Rutgers," "
+10/11/12,Louisville," ",Syracuse," "
+10/11/12,Miami-Florida," ",Virginia," "
+10/11/12,Minnesota," ",Illinois," "
+10/11/12,Wisconsin," ",Indiana," "
+10/11/12,Purdue," ",Iowa," "
+10/11/12,Vanderbilt," ",Mississippi," "
+10/11/12,Georgia Tech," ",North Carolina," "
+10/11/12,Central Michigan," ",Eastern Michigan," "
+10/11/12,Kent State," ",Miami-Ohio," "
+10/11/12,Idaho," ",Brigham Young," "
+10/11/12,Massachusetts," ",Akron," "
+10/11/12,Western Michigan," ",Buffalo," "
+10/11/12,Texas A+M," ",Alabama," "
+10/11/12,Georgia," ",Auburn," "
+10/11/12,Penn State," ",Nebraska," "
+10/11/12,Notre Dame," ",Boston College," "
+10/11/12,Arizona State," ",Southern Cal," "
+10/11/12,Utah," ",Washington," "
+10/11/12,Wyoming," ",New Mexico," "
+10/11/12,San Jose State," ",New Mexico State," "
+10/11/12,Oregon," ",California," "
+10/11/12,West Virginia," ",Oklahoma State," "
+10/11/12,Kansas State," ",Texas Christian," "
+10/11/12,Cincinnati," ",Temple," "
+10/11/12,Missouri," ",Tennessee," "
+10/11/12,Iowa State," ",Texas," "
+10/11/12,Air Force," ",San Diego State," "
+10/11/12,Southern Miss," ",S-M-U," "
+10/11/12,Marshall," ",U-A-B," "
+10/11/12,Tulsa," ",Houston," "
+10/11/12,Nevada-Las Vegas," ",Colorado State," "
+10/11/12,Boise State," ",Hawaii," "
+10/11/12,U.C.L.A.," ",Washington State," "
+10/11/12,U-C-F," ",UTEP," "
+10/11/12,Colorado," ",Arizona," "
+10/11/12,Arkansas," ",South Carolina," "
+10/11/12,Kansas," ",Texas Tech," "
+10/11/12,Louisiana Tech," ",Texas State," "
+10/11/12,Baylor," ",Oklahoma," "
+10/11/12,Tulane," ",Memphis," "
+10/11/12,Oregon State," ",Stanford," "
+10/11/12,Mississippi State," ",Louisiana State," "
+10/11/12,Fresno State," ",Nevada-Reno," "
+10/11/12,Florida Atlantic," ",Western Kentucky," "
+10/11/12,Navy," ",Troy," "
+10/11/12,South Alabama," ",North Texas," "
+10/11/12,UL-Lafayette," ",Florida," "
+10/11/12,McNeese State," ",Texas-San Antonio," "
+14/11/12,Ohio," ",Ball State," "
+14/11/12,Toledo," ",Northern Illinois," "
+15/11/12,North Carolina," ",Virginia," "
+16/11/12,Hawaii," ",Air Force," "
+16/11/12,Florida Intl," ",Florida Atlantic," "
+17/11/12,Duke," ",Georgia Tech," "
+17/11/12,Temple," ",Army," "
+17/11/12,Kent State," ",Bowling Green," "
+17/11/12,Virginia Tech," ",Boston College," "
+17/11/12,Minnesota," ",Nebraska," "
+17/11/12,Arkansas," ",Mississippi State," "
+17/11/12,South Florida," ",Miami-Florida," "
+17/11/12,Purdue," ",Illinois," "
+17/11/12,Iowa State," ",Kansas," "
+17/11/12,Houston," ",Marshall," "
+17/11/12,Florida State," ",Maryland," "
+17/11/12,Buffalo," ",Massachusetts," "
+17/11/12,Northwestern," ",Michigan State," "
+17/11/12,No Carolina State," ",Clemson," "
+17/11/12,Rutgers," ",Cincinnati," "
+17/11/12,Indiana," ",Penn State," "
+17/11/12,Tennessee," ",Vanderbilt," "
+17/11/12,Miami-Ohio," ",Central Michigan," "
+17/11/12,Memphis," ",U-A-B," "
+17/11/12,Eastern Michigan," ",Western Michigan," "
+17/11/12,Oklahoma," ",West Virginia," "
+17/11/12,Southern Cal," ",U.C.L.A.," "
+17/11/12,Colorado State," ",Boise State," "
+17/11/12,Texas State," ",Navy," "
+17/11/12,Kansas State," ",Baylor," "
+17/11/12,Nevada-Reno," ",New Mexico," "
+17/11/12,Wake Forest," ",Notre Dame," "
+17/11/12,Stanford," ",Oregon," "
+17/11/12,California," ",Oregon State," "
+17/11/12,S-M-U," ",Rice," "
+17/11/12,East Carolina," ",Tulane," "
+17/11/12,U-C-F," ",Tulsa," "
+17/11/12,Iowa," ",Michigan," "
+17/11/12,Washington," ",Colorado," "
+17/11/12,Brigham Young," ",San Jose State," "
+17/11/12,Wyoming," ",Nevada-Las Vegas," "
+17/11/12,Texas-San Antonio," ",Idaho," "
+17/11/12,Arizona," ",Utah," "
+17/11/12,Syracuse," ",Missouri," "
+17/11/12,Texas Tech," ",Oklahoma State," "
+17/11/12,Utah State," ",Louisiana Tech," "
+17/11/12,Ohio State," ",Wisconsin," "
+17/11/12,Mississippi," ",Louisiana State," "
+17/11/12,UTEP," ",Southern Miss," "
+17/11/12,Washington State," ",Arizona State," "
+17/11/12,Arkansas State," ",Troy," "
+17/11/12,North Texas," ",UL-Monroe," "
+17/11/12,Middle Tennessee," ",South Alabama," "
+17/11/12,Western Kentucky," ",UL-Lafayette," "
+17/11/12,Western Carolina," ",Alabama," "
+17/11/12,Georgia Southern," ",Georgia," "
+17/11/12,Wofford," ",South Carolina," "
+17/11/12,Jacksonville St," ",Florida," "
+17/11/12,Alabama A+M," ",Auburn," "
+17/11/12,Samford," ",Kentucky," "
+17/11/12,Sam Houston State," ",Texas A+M," "
+20/11/12,Akron," ",Toledo," "
+23/11/12,Nebraska," ",Iowa," "
+23/11/12,Buffalo," ",Bowling Green," "
+23/11/12,Central Michigan," ",Massachusetts," "
+23/11/12,Ball State," ",Miami-Ohio," "
+23/11/12,Syracuse," ",Temple," "
+23/11/12,Northern Illinois," ",Eastern Michigan," "
+23/11/12,South Florida," ",Cincinnati," "
+23/11/12,Marshall," ",East Carolina," "
+23/11/12,Ohio," ",Kent State," "
+23/11/12,Louisiana State," ",Arkansas," "
+23/11/12,Utah," ",Colorado," "
+23/11/12,West Virginia," ",Iowa State," "
+23/11/12,Washington," ",Washington State," "
+23/11/12,Texas Christian," ",Texas," "
+23/11/12,Arizona State," ",Arizona," "
+24/11/12,Michigan," ",Ohio State," "
+24/11/12,Vanderbilt," ",Wake Forest," "
+24/11/12,Connecticut," ",Louisville," "
+24/11/12,Georgia Tech," ",Georgia," "
+24/11/12,Maryland," ",North Carolina," "
+24/11/12,Virginia," ",Virginia Tech," "
+24/11/12,Michigan State," ",Minnesota," "
+24/11/12,Miami-Florida," ",Duke," "
+24/11/12,Illinois," ",Northwestern," "
+24/11/12,Boston College," ",No Carolina State," "
+24/11/12,Kentucky," ",Tennessee," "
+24/11/12,Wisconsin," ",Penn State," "
+24/11/12,Rutgers," ",Pittsburgh," "
+24/11/12,Indiana," ",Purdue," "
+24/11/12,Texas State," ",Texas-San Antonio," "
+24/11/12,Idaho," ",Utah State," "
+24/11/12,San Diego State," ",Wyoming," "
+24/11/12,Texas Tech," ",Baylor," "
+24/11/12,Auburn," ",Alabama," "
+24/11/12,Mississippi State," ",Mississippi," "
+24/11/12,Stanford," ",U.C.L.A.," "
+24/11/12,Brigham Young," ",New Mexico State," "
+24/11/12,Air Force," ",Fresno State," "
+24/11/12,Oklahoma State," ",Oklahoma," "
+24/11/12,Missouri," ",Texas A+M," "
+24/11/12,Oregon," ",Oregon State," "
+24/11/12,Tulsa," ",S-M-U," "
+24/11/12,Florida," ",Florida State," "
+24/11/12,Louisiana Tech," ",San Jose State," "
+24/11/12,Southern Miss," ",Memphis," "
+24/11/12,Tulane," ",Houston," "
+24/11/12,New Mexico," ",Colorado State," "
+24/11/12,Rice," ",UTEP," "
+24/11/12,South Carolina," ",Clemson," "
+24/11/12,U-A-B," ",U-C-F," "
+24/11/12,Notre Dame," ",Southern Cal," "
+24/11/12,Nevada-Las Vegas," ",Hawaii," "
+24/11/12,North Texas," ",Western Kentucky," "
+24/11/12,Troy," ",Middle Tennessee," "
+24/11/12,South Alabama," ",UL-Lafayette," "
+24/11/12,UL-Monroe," ",Florida Intl," "
+29/11/12,Louisville," ",Rutgers," "
+30/11/12,Oregon," ",Southern Cal," "
+01/12/12,Cincinnati," ",Connecticut," "
+01/12/12,Pittsburgh," ",South Florida," "
+01/12/12,Oklahoma," ",Texas Christian," "
+01/12/12,Texas," ",Kansas State," "
+01/12/12,Oklahoma State," ",Baylor," "
+01/12/12,Boise State," ",Nevada-Reno," "
+01/12/12,Kansas," ",West Virginia," "
+01/12/12,New Mexico State," ",Texas State," "
+01/12/12,Middle Tennessee," ",Arkansas State," "
+01/12/12,UL-Lafayette," ",Florida Atlantic," "
+01/12/12,South Alabama," ",Hawaii," "
+01/12/12,East Carolina," ",Tulsa," "
+01/12/12,Florida," ",Alabama," "
+01/12/12,Kent State," ",Toledo," "
+01/12/12,Duke," ",Florida State," "
+01/12/12,Wisconsin," ",Nebraska," "
+01/12/12,Nicholls State," ",Oregon State," "
+08/12/12,Navy," ",Army," "

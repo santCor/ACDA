@@ -1,0 +1,3223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<liga>
+    <partido data="30/08/12">
+        <visitante nome="South Carolina" puntos="2"></visitante>
+        <local nome="Vanderbilt" puntos="3"></local>
+    </partido>
+    <partido data="30/08/12">
+        <visitante nome="U-C-F" puntos="56"></visitante>
+        <local nome="Akron" puntos="14"></local>
+    </partido>
+    <partido data="30/08/12">
+        <visitante nome="Eastern Michigan" puntos="26"></visitante>
+        <local nome="Ball State" puntos="37"></local>
+    </partido>
+    <partido data="30/08/12">
+        <visitante nome="Massachusetts" puntos="0"></visitante>
+        <local nome="Connecticut" puntos="37"></local>
+    </partido>
+    <partido data="30/08/12">
+        <visitante nome="U.C.L.A." puntos="49"></visitante>
+        <local nome="Rice" puntos="24"></local>
+    </partido>
+    <partido data="30/08/12">
+        <visitante nome="Washington State" puntos="6"></visitante>
+        <local nome="Brigham Young" puntos="30"></local>
+    </partido>
+    <partido data="30/08/12">
+        <visitante nome="Minnesota" puntos="30"></visitante>
+        <local nome="Nevada-Las Vegas" puntos="27"></local>
+    </partido>
+    <partido data="30/08/12">
+        <visitante nome="Towson" puntos="21"></visitante>
+        <local nome="Kent State" puntos="41"></local>
+    </partido>
+    <partido data="30/08/12">
+        <visitante nome="S E Missouri St" puntos="27"></visitante>
+        <local nome="Central Michigan" puntos="38"></local>
+    </partido>
+    <partido data="30/08/12">
+        <visitante nome="Northern Colorado" puntos="0"></visitante>
+        <local nome="Utah" puntos="41"></local>
+    </partido>
+    <partido data="30/08/12">
+        <visitante nome="McNeese State" puntos="27"></visitante>
+        <local nome="Middle Tennessee" puntos="21"></local>
+    </partido>
+    <partido data="30/08/12">
+        <visitante nome="Southern Utah" puntos="3"></visitante>
+        <local nome="Utah State" puntos="34"></local>
+    </partido>
+    <partido data="30/08/12">
+        <visitante nome="Sacramento State" puntos="19"></visitante>
+        <local nome="New Mexico State" puntos="49"></local>
+    </partido>
+    <partido data="30/08/12">
+        <visitante nome="Eastern Washington" puntos="20"></visitante>
+        <local nome="Idaho" puntos="3"></local>
+    </partido>
+    <partido data="30/08/12">
+        <visitante nome="Northern Arizona" puntos="6"></visitante>
+        <local nome="Arizona State" puntos="63"></local>
+    </partido>
+    <partido data="31/08/12">
+        <visitante nome="Tennessee" puntos="35"></visitante>
+        <local nome="No Carolina State" puntos="21"></local>
+    </partido>
+    <partido data="31/08/12">
+        <visitante nome="Boise State" puntos="13"></visitante>
+        <local nome="Michigan State" puntos="17"></local>
+    </partido>
+    <partido data="31/08/12">
+        <visitante nome="San Jose State" puntos="17"></visitante>
+        <local nome="Stanford" puntos="20"></local>
+    </partido>
+    <partido data="31/08/12">
+        <visitante nome="Villanova" puntos="10"></visitante>
+        <local nome="Temple" puntos="41"></local>
+    </partido>
+    <partido data="31/08/12">
+        <visitante nome="Wagner" puntos="3"></visitante>
+        <local nome="Florida Atlantic" puntos="7"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Notre Dame" puntos="50"></visitante>
+        <local nome="Navy" puntos="10"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Marshall" puntos="34"></visitante>
+        <local nome="West Virginia" puntos="69"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Ohio" puntos="24"></visitante>
+        <local nome="Penn State" puntos="14"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Northwestern" puntos="42"></visitante>
+        <local nome="Syracuse" puntos="41"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Miami-Ohio" puntos="10"></visitante>
+        <local nome="Ohio State" puntos="56"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Western Michigan" puntos="7"></visitante>
+        <local nome="Illinois" puntos="24"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Tulsa" puntos="23"></visitante>
+        <local nome="Iowa State" puntos="38"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Nevada-Reno" puntos="31"></visitante>
+        <local nome="California" puntos="24"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Southern Miss" puntos="20"></visitante>
+        <local nome="Nebraska" puntos="49"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Miami-Florida" puntos="41"></visitante>
+        <local nome="Boston College" puntos="32"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Iowa" puntos="18"></visitante>
+        <local nome="Northern Illinois" puntos="17"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Colorado" puntos="17"></visitante>
+        <local nome="Colorado State" puntos="22"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Buffalo" puntos="23"></visitante>
+        <local nome="Georgia" puntos="45"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Bowling Green" puntos="14"></visitante>
+        <local nome="Florida" puntos="27"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Wyoming" puntos="17"></visitante>
+        <local nome="Texas" puntos="37"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Texas State" puntos="30"></visitante>
+        <local nome="Houston" puntos="13"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Clemson" puntos="26"></visitante>
+        <local nome="Auburn" puntos="19"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Hawaii" puntos="10"></visitante>
+        <local nome="Southern Cal" puntos="49"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Michigan" puntos="14"></visitante>
+        <local nome="Alabama" puntos="41"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Rutgers" puntos="24"></visitante>
+        <local nome="Tulane" puntos="12"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Oklahoma" puntos="24"></visitante>
+        <local nome="UTEP" puntos="7"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Toledo" puntos="17"></visitante>
+        <local nome="Arizona" puntos="24"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="San Diego State" puntos="12"></visitante>
+        <local nome="Washington" puntos="21"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Troy" puntos="39"></visitante>
+        <local nome="U-A-B" puntos="29"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Florida Intl" puntos="26"></visitante>
+        <local nome="Duke" puntos="46"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="North Texas" puntos="14"></visitante>
+        <local nome="Louisiana State" puntos="41"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Texas-San Antonio" puntos="33"></visitante>
+        <local nome="South Alabama" puntos="31"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Arkansas State" puntos="34"></visitante>
+        <local nome="Oregon" puntos="57"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Appalachian State" puntos="13"></visitante>
+        <local nome="East Carolina" puntos="35"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Jacksonville St" puntos="24"></visitante>
+        <local nome="Arkansas" puntos="49"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="South Dakota State" puntos="17"></visitante>
+        <local nome="Kansas" puntos="31"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Missouri State" puntos="9"></visitante>
+        <local nome="Kansas State" puntos="51"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Idaho State" puntos="21"></visitante>
+        <local nome="Air Force" puntos="49"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="William + Mary" puntos="6"></visitante>
+        <local nome="Maryland" puntos="7"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Richmond" puntos="19"></visitante>
+        <local nome="Virginia" puntos="43"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Eastern Kentucky" puntos="6"></visitante>
+        <local nome="Purdue" puntos="48"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Northern Iowa" puntos="21"></visitante>
+        <local nome="Wisconsin" puntos="26"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Murray State" puntos="3"></visitante>
+        <local nome="Florida State" puntos="69"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Youngstown State" puntos="31"></visitante>
+        <local nome="Pittsburgh" puntos="17"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Liberty" puntos="17"></visitante>
+        <local nome="Wake Forest" puntos="20"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Lamar" puntos="0"></visitante>
+        <local nome="UL-Lafayette" puntos="40"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Tennessee-Martin" puntos="20"></visitante>
+        <local nome="Memphis" puntos="17"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Chattanooga" puntos="13"></visitante>
+        <local nome="South Florida" puntos="34"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Central Arkansas" puntos="27"></visitante>
+        <local nome="Mississippi" puntos="49"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Austin Peay" puntos="10"></visitante>
+        <local nome="Western Kentucky" puntos="49"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Jackson State" puntos="9"></visitante>
+        <local nome="Mississippi State" puntos="56"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="S E Louisiana" puntos="10"></visitante>
+        <local nome="Missouri" puntos="62"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Savannah State" puntos="0"></visitante>
+        <local nome="Oklahoma State" puntos="84"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Northwestern St(LA)" puntos="6"></visitante>
+        <local nome="Texas Tech" puntos="44"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Indiana State" puntos="17"></visitante>
+        <local nome="Indiana" puntos="24"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Southern Univ" puntos="21"></visitante>
+        <local nome="New Mexico" puntos="66"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Weber State" puntos="10"></visitante>
+        <local nome="Fresno State" puntos="37"></local>
+    </partido>
+    <partido data="01/09/12">
+        <visitante nome="Elon" puntos="0"></visitante>
+        <local nome="North Carolina" puntos="62"></local>
+    </partido>
+    <partido data="02/09/12">
+        <visitante nome="Kentucky" puntos="14"></visitante>
+        <local nome="Louisville" puntos="32"></local>
+    </partido>
+    <partido data="02/09/12">
+        <visitante nome="S-M-U" puntos="24"></visitante>
+        <local nome="Baylor" puntos="59"></local>
+    </partido>
+    <partido data="03/09/12">
+        <visitante nome="Georgia Tech" puntos="17"></visitante>
+        <local nome="Virginia Tech" puntos="20"></local>
+    </partido>
+    <partido data="06/09/12">
+        <visitante nome="Pittsburgh" puntos="10"></visitante>
+        <local nome="Cincinnati" puntos="34"></local>
+    </partido>
+    <partido data="07/09/12">
+        <visitante nome="Utah" puntos="20"></visitante>
+        <local nome="Utah State" puntos="27"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Penn State" puntos="16"></visitante>
+        <local nome="Virginia" puntos="17"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Indiana" puntos="45"></visitante>
+        <local nome="Massachusetts" puntos="6"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Air Force" puntos="25"></visitante>
+        <local nome="Michigan" puntos="31"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="New Mexico State" puntos="24"></visitante>
+        <local nome="Ohio" puntos="51"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Kent State" puntos="14"></visitante>
+        <local nome="Kentucky" puntos="47"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="U-C-F" puntos="16"></visitante>
+        <local nome="Ohio State" puntos="31"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Idaho" puntos="13"></visitante>
+        <local nome="Bowling Green" puntos="21"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Ball State" puntos="27"></visitante>
+        <local nome="Clemson" puntos="52"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Rice" puntos="25"></visitante>
+        <local nome="Kansas" puntos="24"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Toledo" puntos="34"></visitante>
+        <local nome="Wyoming" puntos="31"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="North Carolina" puntos="27"></visitante>
+        <local nome="Wake Forest" puntos="28"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Georgia" puntos="41"></visitante>
+        <local nome="Missouri" puntos="20"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Miami-Florida" puntos="13"></visitante>
+        <local nome="Kansas State" puntos="52"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Michigan State" puntos="41"></visitante>
+        <local nome="Central Michigan" puntos="7"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Southern Cal" puntos="42"></visitante>
+        <local nome="Syracuse" puntos="29"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Purdue" puntos="17"></visitante>
+        <local nome="Notre Dame" puntos="20"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="South Florida" puntos="32"></visitante>
+        <local nome="Nevada-Reno" puntos="31"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Wisconsin" puntos="7"></visitante>
+        <local nome="Oregon State" puntos="10"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Fresno State" puntos="25"></visitante>
+        <local nome="Oregon" puntos="42"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="East Carolina" puntos="10"></visitante>
+        <local nome="South Carolina" puntos="48"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Iowa State" puntos="9"></visitante>
+        <local nome="Iowa" puntos="6"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Washington" puntos="3"></visitante>
+        <local nome="Louisiana State" puntos="41"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="UTEP" puntos="10"></visitante>
+        <local nome="Mississippi" puntos="28"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Auburn" puntos="10"></visitante>
+        <local nome="Mississippi State" puntos="28"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Texas Tech" puntos="58"></visitante>
+        <local nome="Texas State" puntos="10"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Maryland" puntos="36"></visitante>
+        <local nome="Temple" puntos="27"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="New Mexico" puntos="0"></visitante>
+        <local nome="Texas" puntos="45"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Florida" puntos="20"></visitante>
+        <local nome="Texas A+M" puntos="17"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Louisiana Tech" puntos="56"></visitante>
+        <local nome="Houston" puntos="49"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Nebraska" puntos="30"></visitante>
+        <local nome="U.C.L.A." puntos="36"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Army" puntos="7"></visitante>
+        <local nome="San Diego State" puntos="42"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="No Carolina State" puntos="10"></visitante>
+        <local nome="Connecticut" puntos="7"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Tulane" puntos="10"></visitante>
+        <local nome="Tulsa" puntos="45"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Vanderbilt" puntos="13"></visitante>
+        <local nome="Northwestern" puntos="23"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Duke" puntos="13"></visitante>
+        <local nome="Stanford" puntos="50"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Oklahoma State" puntos="38"></visitante>
+        <local nome="Arizona" puntos="59"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Illinois" puntos="14"></visitante>
+        <local nome="Arizona State" puntos="45"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Akron" puntos="38"></visitante>
+        <local nome="Florida Intl" puntos="41"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="UL-Lafayette" puntos="37"></visitante>
+        <local nome="Troy" puntos="24"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Florida Atlantic" puntos="17"></visitante>
+        <local nome="Middle Tennessee" puntos="31"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Memphis" puntos="28"></visitante>
+        <local nome="Arkansas State" puntos="33"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="UL-Monroe" puntos="34"></visitante>
+        <local nome="Arkansas" puntos="31"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Western Kentucky" puntos="0"></visitante>
+        <local nome="Alabama" puntos="35"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="New Hampshire" puntos="7"></visitante>
+        <local nome="Minnesota" puntos="44"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Southern Illinois" puntos="14"></visitante>
+        <local nome="Miami-Ohio" puntos="30"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Maine" puntos="3"></visitante>
+        <local nome="Boston College" puntos="34"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Austin Peay" puntos="7"></visitante>
+        <local nome="Virginia Tech" puntos="42"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="North Dakota St" puntos="22"></visitante>
+        <local nome="Colorado State" puntos="7"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Southern Utah" puntos="31"></visitante>
+        <local nome="California" puntos="50"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Weber State" puntos="13"></visitante>
+        <local nome="Brigham Young" puntos="45"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Sacramento State" puntos="30"></visitante>
+        <local nome="Colorado" puntos="28"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Missouri State" puntos="7"></visitante>
+        <local nome="Louisville" puntos="35"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Eastern Washington" puntos="20"></visitante>
+        <local nome="Washington State" puntos="24"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Howard" puntos="0"></visitante>
+        <local nome="Rutgers" puntos="26"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Savannah State" puntos="0"></visitante>
+        <local nome="Florida State" puntos="55"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Morgan State" puntos="34"></visitante>
+        <local nome="Buffalo" puntos="56"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Western Carolina" puntos="24"></visitante>
+        <local nome="Marshall" puntos="52"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Nicholls State" puntos="3"></visitante>
+        <local nome="South Alabama" puntos="9"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Presbyterian" puntos="3"></visitante>
+        <local nome="Georgia Tech" puntos="59"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Texas Southern" puntos="7"></visitante>
+        <local nome="North Texas" puntos="34"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Eastern Illinois" puntos="21"></visitante>
+        <local nome="Western Michigan" puntos="52"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Tennessee-Martin" puntos="7"></visitante>
+        <local nome="Northern Illinois" puntos="35"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Florida A+M" puntos="13"></visitante>
+        <local nome="Oklahoma" puntos="69"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Georgia State" puntos="13"></visitante>
+        <local nome="Tennessee" puntos="51"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Illinois State" puntos="31"></visitante>
+        <local nome="Eastern Michigan" puntos="14"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Stephen F Austin" puntos="0"></visitante>
+        <local nome="S-M-U" puntos="52"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Grambling" puntos="0"></visitante>
+        <local nome="Texas Christian" puntos="56"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="UC-Davis" puntos="13"></visitante>
+        <local nome="San Jose State" puntos="45"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Northern Arizona" puntos="17"></visitante>
+        <local nome="Nevada-Las Vegas" puntos="14"></local>
+    </partido>
+    <partido data="08/09/12">
+        <visitante nome="Texas A+M-Commerce" puntos="16"></visitante>
+        <local nome="Texas-San Antonio" puntos="27"></local>
+    </partido>
+    <partido data="13/09/12">
+        <visitante nome="Rutgers" puntos="23"></visitante>
+        <local nome="South Florida" puntos="13"></local>
+    </partido>
+    <partido data="14/09/12">
+        <visitante nome="Washington State" puntos="35"></visitante>
+        <local nome="Nevada-Las Vegas" puntos="27"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Navy" puntos="7"></visitante>
+        <local nome="Penn State" puntos="34"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Massachusetts" puntos="13"></visitante>
+        <local nome="Michigan" puntos="63"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Boston College" puntos="13"></visitante>
+        <local nome="Northwestern" puntos="22"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Eastern Michigan" puntos="16"></visitante>
+        <local nome="Purdue" puntos="54"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Northern Illinois" puntos="41"></visitante>
+        <local nome="Army" puntos="40"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Wake Forest" puntos="0"></visitante>
+        <local nome="Florida State" puntos="52"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Connecticut" puntos="24"></visitante>
+        <local nome="Maryland" puntos="21"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Texas A+M" puntos="48"></visitante>
+        <local nome="S-M-U" puntos="3"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Virginia Tech" puntos="17"></visitante>
+        <local nome="Pittsburgh" puntos="35"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Southern Cal" puntos="14"></visitante>
+        <local nome="Stanford" puntos="21"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="East Carolina" puntos="24"></visitante>
+        <local nome="Southern Miss" puntos="14"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="California" puntos="28"></visitante>
+        <local nome="Ohio State" puntos="35"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Texas" puntos="66"></visitante>
+        <local nome="Mississippi" puntos="31"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Arizona State" puntos="20"></visitante>
+        <local nome="Missouri" puntos="24"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Brigham Young" puntos="21"></visitante>
+        <local nome="Utah" puntos="24"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="North Carolina" puntos="34"></visitante>
+        <local nome="Louisville" puntos="39"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Virginia" puntos="20"></visitante>
+        <local nome="Georgia Tech" puntos="56"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Alabama" puntos="52"></visitante>
+        <local nome="Arkansas" puntos="0"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Miami-Ohio" puntos="12"></visitante>
+        <local nome="Boise State" puntos="39"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Texas Christian" puntos="20"></visitante>
+        <local nome="Kansas" puntos="6"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Rice" puntos="37"></visitante>
+        <local nome="Louisiana Tech" puntos="56"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Western Michigan" puntos="23"></visitante>
+        <local nome="Minnesota" puntos="28"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Bowling Green" puntos="15"></visitante>
+        <local nome="Toledo" puntos="27"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="U-A-B" puntos="6"></visitante>
+        <local nome="South Carolina" puntos="49"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Ohio" puntos="27"></visitante>
+        <local nome="Marshall" puntos="24"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="New Mexico" puntos="14"></visitante>
+        <local nome="Texas Tech" puntos="49"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Florida" puntos="37"></visitante>
+        <local nome="Tennessee" puntos="20"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Colorado State" puntos="20"></visitante>
+        <local nome="San Jose State" puntos="40"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Utah State" puntos="14"></visitante>
+        <local nome="Wisconsin" puntos="16"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Idaho" puntos="14"></visitante>
+        <local nome="Louisiana State" puntos="63"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Notre Dame" puntos="20"></visitante>
+        <local nome="Michigan State" puntos="3"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Ball State" puntos="41"></visitante>
+        <local nome="Indiana" puntos="39"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Colorado" puntos="14"></visitante>
+        <local nome="Fresno State" puntos="69"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="New Mexico State" puntos="28"></visitante>
+        <local nome="UTEP" puntos="41"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Houston" puntos="6"></visitante>
+        <local nome="U.C.L.A." puntos="37"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Florida Atlantic" puntos="20"></visitante>
+        <local nome="Georgia" puntos="56"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Arkansas State" puntos="13"></visitante>
+        <local nome="Nebraska" puntos="42"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="South Alabama" puntos="7"></visitante>
+        <local nome="No Carolina State" puntos="31"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Florida Intl" puntos="20"></visitante>
+        <local nome="U-C-F" puntos="33"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="North Texas" puntos="24"></visitante>
+        <local nome="Kansas State" puntos="65"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="UL-Lafayette" puntos="21"></visitante>
+        <local nome="Oklahoma State" puntos="35"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Middle Tennessee" puntos="48"></visitante>
+        <local nome="Memphis" puntos="30"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Western Kentucky" puntos="32"></visitante>
+        <local nome="Kentucky" puntos="31"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Mississippi State" puntos="30"></visitante>
+        <local nome="Troy" puntos="24"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="UL-Monroe" puntos="28"></visitante>
+        <local nome="Auburn" puntos="31"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Charleston Southern" puntos="0"></visitante>
+        <local nome="Illinois" puntos="44"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Bethune-Cookman" puntos="10"></visitante>
+        <local nome="Miami-Florida" puntos="38"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Western Illinois" puntos="3"></visitante>
+        <local nome="Iowa State" puntos="37"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Presbyterian" puntos="0"></visitante>
+        <local nome="Vanderbilt" puntos="58"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Sam Houston State" puntos="23"></visitante>
+        <local nome="Baylor" puntos="48"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Texas-San Antonio" puntos="38"></visitante>
+        <local nome="Georgia State" puntos="14"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Tennessee Tech" puntos="14"></visitante>
+        <local nome="Oregon" puntos="63"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Furman" puntos="7"></visitante>
+        <local nome="Clemson" puntos="41"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="West Virginia" puntos="42"></visitante>
+        <local nome="James Madison" puntos="12"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Northern Iowa" puntos="16"></visitante>
+        <local nome="Iowa" puntos="27"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Morgan State" puntos="6"></visitante>
+        <local nome="Akron" puntos="66"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Northwestern St(LA)" puntos="34"></visitante>
+        <local nome="Nevada-Reno" puntos="45"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Stony Brook" puntos="17"></visitante>
+        <local nome="Syracuse" puntos="28"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Portland State" puntos="13"></visitante>
+        <local nome="Washington" puntos="52"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Cal-San Luis Obispo" puntos="24"></visitante>
+        <local nome="Wyoming" puntos="22"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="No Carolina Central" puntos="17"></visitante>
+        <local nome="Duke" puntos="54"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Delaware State" puntos="7"></visitante>
+        <local nome="Cincinnati" puntos="23"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Nicholls State" puntos="16"></visitante>
+        <local nome="Tulsa" puntos="66"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="So Carolina State" puntos="0"></visitante>
+        <local nome="Arizona" puntos="56"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="North Dakota" puntos="41"></visitante>
+        <local nome="San Diego State" puntos="49"></local>
+    </partido>
+    <partido data="15/09/12">
+        <visitante nome="Lamar" puntos="2"></visitante>
+        <local nome="Hawaii" puntos="54"></local>
+    </partido>
+    <partido data="19/09/12">
+        <visitante nome="Kent State" puntos="23"></visitante>
+        <local nome="Buffalo" puntos="7"></local>
+    </partido>
+    <partido data="20/09/12">
+        <visitante nome="Brigham Young" puntos="6"></visitante>
+        <local nome="Boise State" puntos="7"></local>
+    </partido>
+    <partido data="21/09/12">
+        <visitante nome="Baylor" puntos="47"></visitante>
+        <local nome="UL-Monroe" puntos="42"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Army" puntos="37"></visitante>
+        <local nome="Wake Forest" puntos="49"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Clemson" puntos="37"></visitante>
+        <local nome="Florida State" puntos="49"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="South Florida" puntos="27"></visitante>
+        <local nome="Ball State" puntos="31"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Memphis" puntos="14"></visitante>
+        <local nome="Duke" puntos="38"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Eastern Michigan" puntos="7"></visitante>
+        <local nome="Michigan State" puntos="23"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Bowling Green" puntos="0"></visitante>
+        <local nome="Virginia Tech" puntos="37"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Central Michigan" puntos="32"></visitante>
+        <local nome="Iowa" puntos="31"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="U-A-B" puntos="15"></visitante>
+        <local nome="Ohio State" puntos="29"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="East Carolina" puntos="6"></visitante>
+        <local nome="North Carolina" puntos="27"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Temple" puntos="13"></visitante>
+        <local nome="Penn State" puntos="24"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Maryland" puntos="21"></visitante>
+        <local nome="West Virginia" puntos="31"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="UTEP" puntos="26"></visitante>
+        <local nome="Wisconsin" puntos="37"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Massachusetts" puntos="16"></visitante>
+        <local nome="Miami-Ohio" puntos="27"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Vanderbilt" puntos="3"></visitante>
+        <local nome="Georgia" puntos="48"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Utah State" puntos="31"></visitante>
+        <local nome="Colorado State" puntos="19"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Rutgers" puntos="35"></visitante>
+        <local nome="Arkansas" puntos="26"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Fresno State" puntos="26"></visitante>
+        <local nome="Tulsa" puntos="27"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Marshall" puntos="54"></visitante>
+        <local nome="Rice" puntos="51"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Kansas" puntos="23"></visitante>
+        <local nome="Northern Illinois" puntos="30"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Arizona" puntos="0"></visitante>
+        <local nome="Oregon" puntos="49"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Oregon State" puntos="27"></visitante>
+        <local nome="U.C.L.A." puntos="20"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Virginia" puntos="7"></visitante>
+        <local nome="Texas Christian" puntos="27"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="California" puntos="9"></visitante>
+        <local nome="Southern Cal" puntos="27"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Colorado" puntos="35"></visitante>
+        <local nome="Washington State" puntos="34"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Louisiana State" puntos="12"></visitante>
+        <local nome="Auburn" puntos="10"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Miami-Florida" puntos="42"></visitante>
+        <local nome="Georgia Tech" puntos="36"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Wyoming" puntos="40"></visitante>
+        <local nome="Idaho" puntos="37"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Kentucky" puntos="0"></visitante>
+        <local nome="Florida" puntos="38"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Connecticut" puntos="24"></visitante>
+        <local nome="Western Michigan" puntos="30"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Missouri" puntos="10"></visitante>
+        <local nome="South Carolina" puntos="31"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Michigan" puntos="6"></visitante>
+        <local nome="Notre Dame" puntos="13"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Syracuse" puntos="10"></visitante>
+        <local nome="Minnesota" puntos="17"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Kansas State" puntos="24"></visitante>
+        <local nome="Oklahoma" puntos="19"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="New Mexico" puntos="27"></visitante>
+        <local nome="New Mexico State" puntos="14"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Akron" puntos="26"></visitante>
+        <local nome="Tennessee" puntos="47"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Mississippi" puntos="39"></visitante>
+        <local nome="Tulane" puntos="0"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Louisiana Tech" puntos="52"></visitante>
+        <local nome="Illinois" puntos="24"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Utah" puntos="7"></visitante>
+        <local nome="Arizona State" puntos="37"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="San Jose State" puntos="38"></visitante>
+        <local nome="San Diego State" puntos="34"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Air Force" puntos="35"></visitante>
+        <local nome="Nevada-Las Vegas" puntos="38"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Nevada-Reno" puntos="69"></visitante>
+        <local nome="Hawaii" puntos="24"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Florida Atlantic" puntos="7"></visitante>
+        <local nome="Alabama" puntos="40"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Southern Miss" puntos="17"></visitante>
+        <local nome="Western Kentucky" puntos="42"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Troy" puntos="14"></visitante>
+        <local nome="North Texas" puntos="7"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Louisville" puntos="28"></visitante>
+        <local nome="Florida Intl" puntos="21"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="South Alabama" puntos="10"></visitante>
+        <local nome="Mississippi State" puntos="30"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="South Dakota" puntos="7"></visitante>
+        <local nome="Northwestern" puntos="38"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Norfolk State" puntos="10"></visitante>
+        <local nome="Ohio" puntos="44"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Idaho State" puntos="7"></visitante>
+        <local nome="Nebraska" puntos="73"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="So Carolina State" puntos="14"></visitante>
+        <local nome="Texas A+M" puntos="70"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Stephen F Austin" puntos="37"></visitante>
+        <local nome="Texas State" puntos="41"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Virginia Military" puntos="3"></visitante>
+        <local nome="Navy" puntos="41"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Gardner-Webb" puntos="10"></visitante>
+        <local nome="Pittsburgh" puntos="55"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="The Citadel" puntos="14"></visitante>
+        <local nome="No Carolina State" puntos="52"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Alcorn State" puntos="0"></visitante>
+        <local nome="Arkansas State" puntos="56"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="Coastal Carolina" puntos="28"></visitante>
+        <local nome="Toledo" puntos="38"></local>
+    </partido>
+    <partido data="22/09/12">
+        <visitante nome="NW Oklahoma" puntos="3"></visitante>
+        <local nome="Texas-San Antonio" puntos="56"></local>
+    </partido>
+    <partido data="27/09/12">
+        <visitante nome="Stanford" puntos="13"></visitante>
+        <local nome="Washington" puntos="17"></local>
+    </partido>
+    <partido data="28/09/12">
+        <visitante nome="Hawaii" puntos="0"></visitante>
+        <local nome="Brigham Young" puntos="47"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Cincinnati" puntos="27"></visitante>
+        <local nome="Virginia Tech" puntos="24"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Buffalo" puntos="17"></visitante>
+        <local nome="Connecticut" puntos="24"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Penn State" puntos="35"></visitante>
+        <local nome="Illinois" puntos="7"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Minnesota" puntos="13"></visitante>
+        <local nome="Iowa" puntos="31"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Texas Tech" puntos="24"></visitante>
+        <local nome="Iowa State" puntos="13"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Clemson" puntos="45"></visitante>
+        <local nome="Boston College" puntos="31"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Louisiana Tech" puntos="44"></visitante>
+        <local nome="Virginia" puntos="38"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Ohio" puntos="37"></visitante>
+        <local nome="Massachusetts" puntos="34"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Ball State" puntos="43"></visitante>
+        <local nome="Kent State" puntos="45"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Idaho" puntos="0"></visitante>
+        <local nome="North Carolina" puntos="66"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Indiana" puntos="29"></visitante>
+        <local nome="Northwestern" puntos="44"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Marshall" puntos="41"></visitante>
+        <local nome="Purdue" puntos="51"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Duke" puntos="34"></visitante>
+        <local nome="Wake Forest" puntos="27"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="South Carolina" puntos="38"></visitante>
+        <local nome="Kentucky" puntos="17"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Colorado State" puntos="21"></visitante>
+        <local nome="Air Force" puntos="42"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Texas Christian" puntos="24"></visitante>
+        <local nome="S-M-U" puntos="16"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Central Michigan" puntos="24"></visitante>
+        <local nome="Northern Illinois" puntos="55"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="U.C.L.A." puntos="42"></visitante>
+        <local nome="Colorado" puntos="14"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="San Jose State" puntos="12"></visitante>
+        <local nome="Navy" puntos="0"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Oregon" puntos="51"></visitante>
+        <local nome="Washington State" puntos="26"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Texas" puntos="41"></visitante>
+        <local nome="Oklahoma State" puntos="36"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Arkansas" puntos="10"></visitante>
+        <local nome="Texas A+M" puntos="58"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Baylor" puntos="63"></visitante>
+        <local nome="West Virginia" puntos="70"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Ohio State" puntos="17"></visitante>
+        <local nome="Michigan State" puntos="16"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Tennessee" puntos="44"></visitante>
+        <local nome="Georgia" puntos="51"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Arizona State" puntos="27"></visitante>
+        <local nome="California" puntos="17"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Oregon State" puntos="38"></visitante>
+        <local nome="Arizona" puntos="35"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Mississippi" puntos="14"></visitante>
+        <local nome="Alabama" puntos="33"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Miami-Ohio" puntos="56"></visitante>
+        <local nome="Akron" puntos="49"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Missouri" puntos="21"></visitante>
+        <local nome="U-C-F" puntos="16"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="UTEP" puntos="18"></visitante>
+        <local nome="East Carolina" puntos="28"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="No Carolina State" puntos="37"></visitante>
+        <local nome="Miami-Florida" puntos="44"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Florida State" puntos="30"></visitante>
+        <local nome="South Florida" puntos="17"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Toledo" puntos="37"></visitante>
+        <local nome="Western Michigan" puntos="17"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Nevada-Reno" puntos="34"></visitante>
+        <local nome="Texas State" puntos="21"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Louisville" puntos="21"></visitante>
+        <local nome="Southern Miss" puntos="17"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Texas-San Antonio" puntos="35"></visitante>
+        <local nome="New Mexico State" puntos="14"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Wisconsin" puntos="27"></visitante>
+        <local nome="Nebraska" puntos="30"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Tulsa" puntos="49"></visitante>
+        <local nome="U-A-B" puntos="42"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Nevada-Las Vegas" puntos="13"></visitante>
+        <local nome="Utah State" puntos="35"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Houston" puntos="35"></visitante>
+        <local nome="Rice" puntos="14"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Boise State" puntos="32"></visitante>
+        <local nome="New Mexico" puntos="29"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="San Diego State" puntos="40"></visitante>
+        <local nome="Fresno State" puntos="52"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Western Kentucky" puntos="26"></visitante>
+        <local nome="Arkansas State" puntos="13"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Troy" puntos="31"></visitante>
+        <local nome="South Alabama" puntos="10"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Florida Intl" puntos="20"></visitante>
+        <local nome="UL-Lafayette" puntos="48"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="North Texas" puntos="20"></visitante>
+        <local nome="Florida Atlantic" puntos="14"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Middle Tennessee" puntos="49"></visitante>
+        <local nome="Georgia Tech" puntos="28"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="UL-Monroe" puntos="63"></visitante>
+        <local nome="Tulane" puntos="10"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Stony Brook" puntos="23"></visitante>
+        <local nome="Army" puntos="3"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Rhode Island" puntos="8"></visitante>
+        <local nome="Bowling Green" puntos="48"></local>
+    </partido>
+    <partido data="29/09/12">
+        <visitante nome="Towson" puntos="22"></visitante>
+        <local nome="Louisiana State" puntos="38"></local>
+    </partido>
+    <partido data="04/10/12">
+        <visitante nome="East Carolina" puntos="20"></visitante>
+        <local nome="U-C-F" puntos="40"></local>
+    </partido>
+    <partido data="04/10/12">
+        <visitante nome="Southern Cal" puntos="38"></visitante>
+        <local nome="Utah" puntos="28"></local>
+    </partido>
+    <partido data="04/10/12">
+        <visitante nome="Arkansas State" puntos="34"></visitante>
+        <local nome="Florida Intl" puntos="20"></local>
+    </partido>
+    <partido data="05/10/12">
+        <visitante nome="Pittsburgh" puntos="13"></visitante>
+        <local nome="Syracuse" puntos="14"></local>
+    </partido>
+    <partido data="05/10/12">
+        <visitante nome="Utah State" puntos="3"></visitante>
+        <local nome="Brigham Young" puntos="6"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Navy" puntos="28"></visitante>
+        <local nome="Air Force" puntos="21"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Michigan State" puntos="31"></visitante>
+        <local nome="Indiana" puntos="27"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Northern Illinois" puntos="35"></visitante>
+        <local nome="Ball State" puntos="23"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Boston College" puntos="31"></visitante>
+        <local nome="Army" puntos="34"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Bowling Green" puntos="24"></visitante>
+        <local nome="Akron" puntos="10"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Miami-Ohio" puntos="14"></visitante>
+        <local nome="Cincinnati" puntos="52"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Georgia Tech" puntos="31"></visitante>
+        <local nome="Clemson" puntos="47"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Virginia" puntos="17"></visitante>
+        <local nome="Duke" puntos="42"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="South Florida" puntos="28"></visitante>
+        <local nome="Temple" puntos="37"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Northwestern" puntos="28"></visitante>
+        <local nome="Penn State" puntos="39"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Kent State" puntos="41"></visitante>
+        <local nome="Eastern Michigan" puntos="14"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Connecticut" puntos="3"></visitante>
+        <local nome="Rutgers" puntos="19"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Florida State" puntos="16"></visitante>
+        <local nome="No Carolina State" puntos="17"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Massachusetts" puntos="14"></visitante>
+        <local nome="Western Michigan" puntos="52"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Vanderbilt" puntos="19"></visitante>
+        <local nome="Missouri" puntos="15"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Texas A+M" puntos="30"></visitante>
+        <local nome="Mississippi" puntos="27"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Virginia Tech" puntos="34"></visitante>
+        <local nome="North Carolina" puntos="48"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Washington" puntos="21"></visitante>
+        <local nome="Oregon" puntos="52"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Georgia" puntos="7"></visitante>
+        <local nome="South Carolina" puntos="35"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="West Virginia" puntos="48"></visitante>
+        <local nome="Texas" puntos="45"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Iowa State" puntos="37"></visitante>
+        <local nome="Texas Christian" puntos="23"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Illinois" puntos="14"></visitante>
+        <local nome="Wisconsin" puntos="31"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Kansas" puntos="16"></visitante>
+        <local nome="Kansas State" puntos="56"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="U.C.L.A." puntos="17"></visitante>
+        <local nome="California" puntos="43"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Arkansas" puntos="24"></visitante>
+        <local nome="Auburn" puntos="7"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Michigan" puntos="44"></visitante>
+        <local nome="Purdue" puntos="13"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Wyoming" puntos="28"></visitante>
+        <local nome="Nevada-Reno" puntos="35"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="New Mexico State" puntos="18"></visitante>
+        <local nome="Idaho" puntos="26"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Arizona" puntos="48"></visitante>
+        <local nome="Stanford" puntos="54"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Oklahoma" puntos="41"></visitante>
+        <local nome="Texas Tech" puntos="20"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Central Michigan" puntos="35"></visitante>
+        <local nome="Toledo" puntos="50"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Boise State" puntos="40"></visitante>
+        <local nome="Southern Miss" puntos="14"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Rice" puntos="10"></visitante>
+        <local nome="Memphis" puntos="14"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Wake Forest" puntos="14"></visitante>
+        <local nome="Maryland" puntos="19"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Mississippi State" puntos="27"></visitante>
+        <local nome="Kentucky" puntos="14"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Washington State" puntos="6"></visitante>
+        <local nome="Oregon State" puntos="19"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Nevada-Las Vegas" puntos="31"></visitante>
+        <local nome="Louisiana Tech" puntos="58"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Tulsa" puntos="45"></visitante>
+        <local nome="Marshall" puntos="38"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Miami-Florida" puntos="3"></visitante>
+        <local nome="Notre Dame" puntos="41"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Buffalo" puntos="31"></visitante>
+        <local nome="Ohio" puntos="38"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Nebraska" puntos="38"></visitante>
+        <local nome="Ohio State" puntos="63"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Hawaii" puntos="14"></visitante>
+        <local nome="San Diego State" puntos="52"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Fresno State" puntos="28"></visitante>
+        <local nome="Colorado State" puntos="7"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Louisiana State" puntos="6"></visitante>
+        <local nome="Florida" puntos="14"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Texas State" puntos="14"></visitante>
+        <local nome="New Mexico" puntos="35"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="S-M-U" puntos="17"></visitante>
+        <local nome="UTEP" puntos="0"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="Tulane" puntos="13"></visitante>
+        <local nome="UL-Lafayette" puntos="41"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="UL-Monroe" puntos="31"></visitante>
+        <local nome="Middle Tennessee" puntos="17"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="North Texas" puntos="21"></visitante>
+        <local nome="Houston" puntos="44"></local>
+    </partido>
+    <partido data="06/10/12">
+        <visitante nome="S E Louisiana" puntos="3"></visitante>
+        <local nome="U-A-B" puntos="52"></local>
+    </partido>
+    <partido data="11/10/12">
+        <visitante nome="Arizona State" puntos="51"></visitante>
+        <local nome="Colorado" puntos="17"></local>
+    </partido>
+    <partido data="11/10/12">
+        <visitante nome="UTEP" puntos="11"></visitante>
+        <local nome="Tulsa" puntos="33"></local>
+    </partido>
+    <partido data="11/10/12">
+        <visitante nome="Western Kentucky" puntos="31"></visitante>
+        <local nome="Troy" puntos="26"></local>
+    </partido>
+    <partido data="12/10/12">
+        <visitante nome="Navy" puntos="31"></visitante>
+        <local nome="Central Michigan" puntos="13"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Texas" puntos="21"></visitante>
+        <local nome="Oklahoma" puntos="63"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Iowa" puntos="19"></visitante>
+        <local nome="Michigan State" puntos="16"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="North Carolina" puntos="18"></visitante>
+        <local nome="Miami-Florida" puntos="14"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Miami-Ohio" puntos="12"></visitante>
+        <local nome="Bowling Green" puntos="37"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Kent State" puntos="31"></visitante>
+        <local nome="Army" puntos="17"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Akron" puntos="28"></visitante>
+        <local nome="Ohio" puntos="34"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Toledo" puntos="52"></visitante>
+        <local nome="Eastern Michigan" puntos="47"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Maryland" puntos="27"></visitante>
+        <local nome="Virginia" puntos="20"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Duke" puntos="20"></visitante>
+        <local nome="Virginia Tech" puntos="41"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Wisconsin" puntos="38"></visitante>
+        <local nome="Purdue" puntos="14"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Northwestern" puntos="21"></visitante>
+        <local nome="Minnesota" puntos="13"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Syracuse" puntos="15"></visitante>
+        <local nome="Rutgers" puntos="23"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Boston College" puntos="7"></visitante>
+        <local nome="Florida State" puntos="51"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Temple" puntos="17"></visitante>
+        <local nome="Connecticut" puntos="14"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Louisville" puntos="45"></visitante>
+        <local nome="Pittsburgh" puntos="35"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Memphis" puntos="7"></visitante>
+        <local nome="East Carolina" puntos="41"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Florida" puntos="31"></visitante>
+        <local nome="Vanderbilt" puntos="17"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Air Force" puntos="28"></visitante>
+        <local nome="Wyoming" puntos="27"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Western Michigan" puntos="24"></visitante>
+        <local nome="Ball State" puntos="30"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Buffalo" puntos="3"></visitante>
+        <local nome="Northern Illinois" puntos="45"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Idaho" puntos="7"></visitante>
+        <local nome="Texas State" puntos="38"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Kansas State" puntos="27"></visitante>
+        <local nome="Iowa State" puntos="21"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Auburn" puntos="20"></visitante>
+        <local nome="Mississippi" puntos="41"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="U-A-B" puntos="17"></visitante>
+        <local nome="Houston" puntos="39"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Illinois" puntos="0"></visitante>
+        <local nome="Michigan" puntos="45"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Fresno State" puntos="10"></visitante>
+        <local nome="Boise State" puntos="20"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Southern Cal" puntos="24"></visitante>
+        <local nome="Washington" puntos="14"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Oregon State" puntos="42"></visitante>
+        <local nome="Brigham Young" puntos="24"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Alabama" puntos="42"></visitante>
+        <local nome="Missouri" puntos="10"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Stanford" puntos="13"></visitante>
+        <local nome="Notre Dame" puntos="20"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Utah State" puntos="49"></visitante>
+        <local nome="San Jose State" puntos="27"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Kentucky" puntos="7"></visitante>
+        <local nome="Arkansas" puntos="49"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Tennessee" puntos="31"></visitante>
+        <local nome="Mississippi State" puntos="41"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="South Carolina" puntos="21"></visitante>
+        <local nome="Louisiana State" puntos="23"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="California" puntos="31"></visitante>
+        <local nome="Washington State" puntos="17"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="West Virginia" puntos="14"></visitante>
+        <local nome="Texas Tech" puntos="49"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Texas Christian" puntos="49"></visitante>
+        <local nome="Baylor" puntos="21"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Southern Miss" puntos="31"></visitante>
+        <local nome="U-C-F" puntos="38"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Oklahoma State" puntos="20"></visitante>
+        <local nome="Kansas" puntos="14"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Ohio State" puntos="52"></visitante>
+        <local nome="Indiana" puntos="49"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="S-M-U" puntos="26"></visitante>
+        <local nome="Tulane" puntos="27"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Texas-San Antonio" puntos="14"></visitante>
+        <local nome="Rice" puntos="34"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Nevada-Reno" puntos="42"></visitante>
+        <local nome="Nevada-Las Vegas" puntos="37"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Colorado State" puntos="14"></visitante>
+        <local nome="San Diego State" puntos="38"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Utah" puntos="14"></visitante>
+        <local nome="U.C.L.A." puntos="21"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="New Mexico" puntos="35"></visitante>
+        <local nome="Hawaii" puntos="23"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Florida Atlantic" puntos="14"></visitante>
+        <local nome="UL-Monroe" puntos="35"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="South Alabama" puntos="29"></visitante>
+        <local nome="Arkansas State" puntos="36"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Middle Tennessee" puntos="34"></visitante>
+        <local nome="Florida Intl" puntos="30"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Texas A+M" puntos="59"></visitante>
+        <local nome="Louisiana Tech" puntos="57"></local>
+    </partido>
+    <partido data="13/10/12">
+        <visitante nome="Fordham" puntos="17"></visitante>
+        <local nome="Cincinnati" puntos="49"></local>
+    </partido>
+    <partido data="16/10/12">
+        <visitante nome="UL-Lafayette" puntos="23"></visitante>
+        <local nome="North Texas" puntos="30"></local>
+    </partido>
+    <partido data="18/10/12">
+        <visitante nome="Oregon" puntos="43"></visitante>
+        <local nome="Arizona State" puntos="21"></local>
+    </partido>
+    <partido data="18/10/12">
+        <visitante nome="Houston" puntos="42"></visitante>
+        <local nome="S-M-U" puntos="72"></local>
+    </partido>
+    <partido data="19/10/12">
+        <visitante nome="Connecticut" puntos="10"></visitante>
+        <local nome="Syracuse" puntos="40"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Nebraska" puntos="29"></visitante>
+        <local nome="Northwestern" puntos="28"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Minnesota" puntos="13"></visitante>
+        <local nome="Wisconsin" puntos="38"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Army" puntos="38"></visitante>
+        <local nome="Eastern Michigan" puntos="48"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Ball State" puntos="41"></visitante>
+        <local nome="Central Michigan" puntos="30"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Bowling Green" puntos="24"></visitante>
+        <local nome="Massachusetts" puntos="0"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Northern Illinois" puntos="37"></visitante>
+        <local nome="Akron" puntos="7"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Georgia" puntos="29"></visitante>
+        <local nome="Kentucky" puntos="24"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Wake Forest" puntos="16"></visitante>
+        <local nome="Virginia" puntos="10"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="North Carolina" puntos="30"></visitante>
+        <local nome="Duke" puntos="33"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="No Carolina State" puntos="20"></visitante>
+        <local nome="Maryland" puntos="18"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Cincinnati" puntos="23"></visitante>
+        <local nome="Toledo" puntos="29"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Boston College" puntos="17"></visitante>
+        <local nome="Georgia Tech" puntos="37"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Rutgers" puntos="35"></visitante>
+        <local nome="Temple" puntos="10"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="New Mexico" puntos="23"></visitante>
+        <local nome="Air Force" puntos="28"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="San Jose State" puntos="52"></visitante>
+        <local nome="Texas-San Antonio" puntos="24"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="New Mexico State" puntos="7"></visitante>
+        <local nome="Utah State" puntos="41"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Virginia Tech" puntos="17"></visitante>
+        <local nome="Clemson" puntos="38"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Nevada-Las Vegas" puntos="7"></visitante>
+        <local nome="Boise State" puntos="32"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Brigham Young" puntos="14"></visitante>
+        <local nome="Notre Dame" puntos="17"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Alabama" puntos="44"></visitante>
+        <local nome="Tennessee" puntos="13"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Stanford" puntos="21"></visitante>
+        <local nome="California" puntos="3"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Washington" puntos="17"></visitante>
+        <local nome="Arizona" puntos="52"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Purdue" puntos="22"></visitante>
+        <local nome="Ohio State" puntos="29"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Michigan State" puntos="10"></visitante>
+        <local nome="Michigan" puntos="12"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Indiana" puntos="30"></visitante>
+        <local nome="Navy" puntos="31"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Texas Tech" puntos="56"></visitante>
+        <local nome="Texas Christian" puntos="53"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Colorado" puntos="6"></visitante>
+        <local nome="Southern Cal" puntos="50"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Florida State" puntos="33"></visitante>
+        <local nome="Miami-Florida" puntos="20"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Utah" puntos="7"></visitante>
+        <local nome="Oregon State" puntos="21"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Kansas State" puntos="55"></visitante>
+        <local nome="West Virginia" puntos="14"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Louisiana State" puntos="24"></visitante>
+        <local nome="Texas A+M" puntos="19"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="South Carolina" puntos="11"></visitante>
+        <local nome="Florida" puntos="44"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Auburn" puntos="13"></visitante>
+        <local nome="Vanderbilt" puntos="17"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Western Michigan" puntos="24"></visitante>
+        <local nome="Kent State" puntos="41"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Marshall" puntos="59"></visitante>
+        <local nome="Southern Miss" puntos="24"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="U-C-F" puntos="35"></visitante>
+        <local nome="Memphis" puntos="17"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="South Florida" puntos="25"></visitante>
+        <local nome="Louisville" puntos="27"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Idaho" puntos="28"></visitante>
+        <local nome="Louisiana Tech" puntos="70"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Iowa State" puntos="10"></visitante>
+        <local nome="Oklahoma State" puntos="31"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Kansas" puntos="7"></visitante>
+        <local nome="Oklahoma" puntos="52"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Baylor" puntos="50"></visitante>
+        <local nome="Texas" puntos="56"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Pittsburgh" puntos="20"></visitante>
+        <local nome="Buffalo" puntos="6"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="East Carolina" puntos="42"></visitante>
+        <local nome="U-A-B" puntos="35"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Penn State" puntos="38"></visitante>
+        <local nome="Iowa" puntos="14"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Rice" puntos="24"></visitante>
+        <local nome="Tulsa" puntos="28"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Tulane" puntos="20"></visitante>
+        <local nome="UTEP" puntos="24"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Wyoming" puntos="14"></visitante>
+        <local nome="Fresno State" puntos="42"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="San Diego State" puntos="39"></visitante>
+        <local nome="Nevada-Reno" puntos="38"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="UL-Monroe" puntos="43"></visitante>
+        <local nome="Western Kentucky" puntos="42"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Middle Tennessee" puntos="3"></visitante>
+        <local nome="Mississippi State" puntos="45"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Florida Intl" puntos="37"></visitante>
+        <local nome="Troy" puntos="38"></local>
+    </partido>
+    <partido data="20/10/12">
+        <visitante nome="Florida Atlantic" puntos="34"></visitante>
+        <local nome="South Alabama" puntos="37"></local>
+    </partido>
+    <partido data="23/10/12">
+        <visitante nome="Arkansas State" puntos="50"></visitante>
+        <local nome="UL-Lafayette" puntos="27"></local>
+    </partido>
+    <partido data="25/10/12">
+        <visitante nome="Clemson" puntos="42"></visitante>
+        <local nome="Wake Forest" puntos="13"></local>
+    </partido>
+    <partido data="26/10/12">
+        <visitante nome="Cincinnati" puntos="31"></visitante>
+        <local nome="Louisville" puntos="34"></local>
+    </partido>
+    <partido data="26/10/12">
+        <visitante nome="Nevada-Reno" puntos="31"></visitante>
+        <local nome="Air Force" puntos="48"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Navy" puntos="56"></visitante>
+        <local nome="East Carolina" puntos="28"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Massachusetts" puntos="7"></visitante>
+        <local nome="Vanderbilt" puntos="49"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Ohio" puntos="20"></visitante>
+        <local nome="Miami-Ohio" puntos="23"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Ball State" puntos="30"></visitante>
+        <local nome="Army" puntos="22"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Akron" puntos="14"></visitante>
+        <local nome="Central Michigan" puntos="35"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Eastern Michigan" puntos="3"></visitante>
+        <local nome="Bowling Green" puntos="24"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Northern Illinois" puntos="48"></visitante>
+        <local nome="Western Michigan" puntos="34"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Temple" puntos="17"></visitante>
+        <local nome="Pittsburgh" puntos="47"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Indiana" puntos="31"></visitante>
+        <local nome="Illinois" puntos="17"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Purdue" puntos="28"></visitante>
+        <local nome="Minnesota" puntos="44"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Iowa" puntos="17"></visitante>
+        <local nome="Northwestern" puntos="28"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Duke" puntos="7"></visitante>
+        <local nome="Florida State" puntos="48"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Maryland" puntos="17"></visitante>
+        <local nome="Boston College" puntos="20"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Mississippi State" puntos="7"></visitante>
+        <local nome="Alabama" puntos="38"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Utah State" puntos="48"></visitante>
+        <local nome="Texas-San Antonio" puntos="17"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Hawaii" puntos="27"></visitante>
+        <local nome="Colorado State" puntos="42"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Baylor" puntos="21"></visitante>
+        <local nome="Iowa State" puntos="35"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Texas A+M" puntos="63"></visitante>
+        <local nome="Auburn" puntos="21"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="California" puntos="27"></visitante>
+        <local nome="Utah" puntos="49"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Texas" puntos="21"></visitante>
+        <local nome="Kansas" puntos="17"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Michigan State" puntos="16"></visitante>
+        <local nome="Wisconsin" puntos="13"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Colorado" puntos="14"></visitante>
+        <local nome="Oregon" puntos="70"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="No Carolina State" puntos="35"></visitante>
+        <local nome="North Carolina" puntos="43"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Boise State" puntos="45"></visitante>
+        <local nome="Wyoming" puntos="14"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="UTEP" puntos="35"></visitante>
+        <local nome="Houston" puntos="45"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Brigham Young" puntos="41"></visitante>
+        <local nome="Georgia Tech" puntos="17"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Florida" puntos="9"></visitante>
+        <local nome="Georgia" puntos="17"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Kentucky" puntos="10"></visitante>
+        <local nome="Missouri" puntos="33"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="U.C.L.A." puntos="45"></visitante>
+        <local nome="Arizona State" puntos="43"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Southern Cal" puntos="36"></visitante>
+        <local nome="Arizona" puntos="39"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Kent State" puntos="35"></visitante>
+        <local nome="Rutgers" puntos="23"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Texas State" puntos="20"></visitante>
+        <local nome="San Jose State" puntos="31"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Washington State" puntos="17"></visitante>
+        <local nome="Stanford" puntos="24"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Ohio State" puntos="35"></visitante>
+        <local nome="Penn State" puntos="23"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Oregon State" puntos="17"></visitante>
+        <local nome="Washington" puntos="20"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Texas Tech" puntos="24"></visitante>
+        <local nome="Kansas State" puntos="55"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Syracuse" puntos="37"></visitante>
+        <local nome="South Florida" puntos="36"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Texas Christian" puntos="14"></visitante>
+        <local nome="Oklahoma State" puntos="36"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="U-C-F" puntos="54"></visitante>
+        <local nome="Marshall" puntos="17"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Toledo" puntos="25"></visitante>
+        <local nome="Buffalo" puntos="20"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Tennessee" puntos="35"></visitante>
+        <local nome="South Carolina" puntos="38"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Mississippi" puntos="30"></visitante>
+        <local nome="Arkansas" puntos="27"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Louisiana Tech" puntos="28"></visitante>
+        <local nome="New Mexico State" puntos="14"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Notre Dame" puntos="30"></visitante>
+        <local nome="Oklahoma" puntos="13"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="U-A-B" puntos="45"></visitante>
+        <local nome="Tulane" puntos="55"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Memphis" puntos="13"></visitante>
+        <local nome="S-M-U" puntos="44"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Southern Miss" puntos="17"></visitante>
+        <local nome="Rice" puntos="44"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Michigan" puntos="9"></visitante>
+        <local nome="Nebraska" puntos="23"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Nevada-Las Vegas" puntos="13"></visitante>
+        <local nome="San Diego State" puntos="24"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Fresno State" puntos="49"></visitante>
+        <local nome="New Mexico" puntos="32"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="South Alabama" puntos="24"></visitante>
+        <local nome="UL-Monroe" puntos="38"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Western Kentucky" puntos="14"></visitante>
+        <local nome="Florida Intl" puntos="6"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="North Texas" puntos="21"></visitante>
+        <local nome="Middle Tennessee" puntos="38"></local>
+    </partido>
+    <partido data="27/10/12">
+        <visitante nome="Troy" puntos="27"></visitante>
+        <local nome="Florida Atlantic" puntos="34"></local>
+    </partido>
+    <partido data="01/11/12">
+        <visitante nome="Eastern Michigan" puntos="14"></visitante>
+        <local nome="Ohio" puntos="45"></local>
+    </partido>
+    <partido data="01/11/12">
+        <visitante nome="Virginia Tech" puntos="12"></visitante>
+        <local nome="Miami-Florida" puntos="30"></local>
+    </partido>
+    <partido data="01/11/12">
+        <visitante nome="Middle Tennessee" puntos="34"></visitante>
+        <local nome="Western Kentucky" puntos="29"></local>
+    </partido>
+    <partido data="02/11/12">
+        <visitante nome="Washington" puntos="21"></visitante>
+        <local nome="California" puntos="13"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Penn State" puntos="34"></visitante>
+        <local nome="Purdue" puntos="9"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Air Force" puntos="21"></visitante>
+        <local nome="Army" puntos="41"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Akron" puntos="24"></visitante>
+        <local nome="Kent State" puntos="35"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Vanderbilt" puntos="40"></visitante>
+        <local nome="Kentucky" puntos="0"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Massachusetts" puntos="0"></visitante>
+        <local nome="Northern Illinois" puntos="63"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Temple" puntos="17"></visitante>
+        <local nome="Louisville" puntos="45"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Boston College" puntos="14"></visitante>
+        <local nome="Wake Forest" puntos="28"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Houston" puntos="28"></visitante>
+        <local nome="East Carolina" puntos="48"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Iowa" puntos="21"></visitante>
+        <local nome="Indiana" puntos="24"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Georgia Tech" puntos="33"></visitante>
+        <local nome="Maryland" puntos="13"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Clemson" puntos="56"></visitante>
+        <local nome="Duke" puntos="20"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Tulsa" puntos="15"></visitante>
+        <local nome="Arkansas" puntos="19"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="New Mexico State" puntos="7"></visitante>
+        <local nome="Auburn" puntos="42"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Stanford" puntos="48"></visitante>
+        <local nome="Colorado" puntos="0"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Texas State" puntos="7"></visitante>
+        <local nome="Utah State" puntos="38"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Alabama" puntos="21"></visitante>
+        <local nome="Louisiana State" puntos="17"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Colorado State" puntos="31"></visitante>
+        <local nome="Wyoming" puntos="45"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Virginia" puntos="33"></visitante>
+        <local nome="No Carolina State" puntos="6"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Arizona State" puntos="26"></visitante>
+        <local nome="Oregon State" puntos="36"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Missouri" puntos="7"></visitante>
+        <local nome="Florida" puntos="14"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Nebraska" puntos="28"></visitante>
+        <local nome="Michigan State" puntos="24"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Texas Christian" puntos="39"></visitante>
+        <local nome="West Virginia" puntos="38"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Illinois" puntos="22"></visitante>
+        <local nome="Ohio State" puntos="52"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Pittsburgh" puntos="26"></visitante>
+        <local nome="Notre Dame" puntos="29"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Texas-San Antonio" puntos="27"></visitante>
+        <local nome="Louisiana Tech" puntos="51"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="San Jose State" puntos="42"></visitante>
+        <local nome="Idaho" puntos="13"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="S-M-U" puntos="17"></visitante>
+        <local nome="U-C-F" puntos="42"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Connecticut" puntos="6"></visitante>
+        <local nome="South Florida" puntos="13"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Western Michigan" puntos="42"></visitante>
+        <local nome="Central Michigan" puntos="31"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Miami-Ohio" puntos="24"></visitante>
+        <local nome="Buffalo" puntos="27"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Mississippi" puntos="10"></visitante>
+        <local nome="Georgia" puntos="37"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Syracuse" puntos="24"></visitante>
+        <local nome="Cincinnati" puntos="35"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Washington State" puntos="6"></visitante>
+        <local nome="Utah" puntos="49"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="U-A-B" puntos="27"></visitante>
+        <local nome="Southern Miss" puntos="19"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Memphis" puntos="28"></visitante>
+        <local nome="Marshall" puntos="38"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Michigan" puntos="35"></visitante>
+        <local nome="Minnesota" puntos="13"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Oklahoma State" puntos="30"></visitante>
+        <local nome="Kansas State" puntos="44"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Texas" puntos="31"></visitante>
+        <local nome="Texas Tech" puntos="22"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Texas A+M" puntos="38"></visitante>
+        <local nome="Mississippi State" puntos="13"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Kansas" puntos="14"></visitante>
+        <local nome="Baylor" puntos="41"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Oklahoma" puntos="35"></visitante>
+        <local nome="Iowa State" puntos="20"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Oregon" puntos="62"></visitante>
+        <local nome="Southern Cal" puntos="51"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Rice" puntos="49"></visitante>
+        <local nome="Tulane" puntos="47"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Hawaii" puntos="10"></visitante>
+        <local nome="Fresno State" puntos="45"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Arizona" puntos="10"></visitante>
+        <local nome="U.C.L.A." puntos="66"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="New Mexico" puntos="7"></visitante>
+        <local nome="Nevada-Las Vegas" puntos="35"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="San Diego State" puntos="21"></visitante>
+        <local nome="Boise State" puntos="19"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Florida Atlantic" puntos="17"></visitante>
+        <local nome="Navy" puntos="24"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Florida Intl" puntos="28"></visitante>
+        <local nome="South Alabama" puntos="20"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Troy" puntos="48"></visitante>
+        <local nome="Tennessee" puntos="55"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="Arkansas State" puntos="37"></visitante>
+        <local nome="North Texas" puntos="19"></local>
+    </partido>
+    <partido data="03/11/12">
+        <visitante nome="UL-Lafayette" puntos="40"></visitante>
+        <local nome="UL-Monroe" puntos="24"></local>
+    </partido>
+    <partido data="06/11/12">
+        <visitante nome="Ball State" puntos="&quot; &quot;"></visitante>
+        <local nome="Toledo" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="07/11/12">
+        <visitante nome="Bowling Green" puntos="&quot; &quot;"></visitante>
+        <local nome="Ohio" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="08/11/12">
+        <visitante nome="Florida State" puntos="&quot; &quot;"></visitante>
+        <local nome="Virginia Tech" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="08/11/12">
+        <visitante nome="UL-Monroe" puntos="&quot; &quot;"></visitante>
+        <local nome="Arkansas State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="09/11/12">
+        <visitante nome="Pittsburgh" puntos="&quot; &quot;"></visitante>
+        <local nome="Connecticut" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Northwestern" puntos="&quot; &quot;"></visitante>
+        <local nome="Michigan" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Maryland" puntos="&quot; &quot;"></visitante>
+        <local nome="Clemson" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Wake Forest" puntos="&quot; &quot;"></visitante>
+        <local nome="No Carolina State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Army" puntos="&quot; &quot;"></visitante>
+        <local nome="Rutgers" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Louisville" puntos="&quot; &quot;"></visitante>
+        <local nome="Syracuse" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Miami-Florida" puntos="&quot; &quot;"></visitante>
+        <local nome="Virginia" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Minnesota" puntos="&quot; &quot;"></visitante>
+        <local nome="Illinois" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Wisconsin" puntos="&quot; &quot;"></visitante>
+        <local nome="Indiana" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Purdue" puntos="&quot; &quot;"></visitante>
+        <local nome="Iowa" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Vanderbilt" puntos="&quot; &quot;"></visitante>
+        <local nome="Mississippi" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Georgia Tech" puntos="&quot; &quot;"></visitante>
+        <local nome="North Carolina" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Central Michigan" puntos="&quot; &quot;"></visitante>
+        <local nome="Eastern Michigan" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Kent State" puntos="&quot; &quot;"></visitante>
+        <local nome="Miami-Ohio" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Idaho" puntos="&quot; &quot;"></visitante>
+        <local nome="Brigham Young" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Massachusetts" puntos="&quot; &quot;"></visitante>
+        <local nome="Akron" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Western Michigan" puntos="&quot; &quot;"></visitante>
+        <local nome="Buffalo" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Texas A+M" puntos="&quot; &quot;"></visitante>
+        <local nome="Alabama" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Georgia" puntos="&quot; &quot;"></visitante>
+        <local nome="Auburn" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Penn State" puntos="&quot; &quot;"></visitante>
+        <local nome="Nebraska" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Notre Dame" puntos="&quot; &quot;"></visitante>
+        <local nome="Boston College" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Arizona State" puntos="&quot; &quot;"></visitante>
+        <local nome="Southern Cal" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Utah" puntos="&quot; &quot;"></visitante>
+        <local nome="Washington" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Wyoming" puntos="&quot; &quot;"></visitante>
+        <local nome="New Mexico" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="San Jose State" puntos="&quot; &quot;"></visitante>
+        <local nome="New Mexico State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Oregon" puntos="&quot; &quot;"></visitante>
+        <local nome="California" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="West Virginia" puntos="&quot; &quot;"></visitante>
+        <local nome="Oklahoma State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Kansas State" puntos="&quot; &quot;"></visitante>
+        <local nome="Texas Christian" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Cincinnati" puntos="&quot; &quot;"></visitante>
+        <local nome="Temple" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Missouri" puntos="&quot; &quot;"></visitante>
+        <local nome="Tennessee" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Iowa State" puntos="&quot; &quot;"></visitante>
+        <local nome="Texas" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Air Force" puntos="&quot; &quot;"></visitante>
+        <local nome="San Diego State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Southern Miss" puntos="&quot; &quot;"></visitante>
+        <local nome="S-M-U" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Marshall" puntos="&quot; &quot;"></visitante>
+        <local nome="U-A-B" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Tulsa" puntos="&quot; &quot;"></visitante>
+        <local nome="Houston" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Nevada-Las Vegas" puntos="&quot; &quot;"></visitante>
+        <local nome="Colorado State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Boise State" puntos="&quot; &quot;"></visitante>
+        <local nome="Hawaii" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="U.C.L.A." puntos="&quot; &quot;"></visitante>
+        <local nome="Washington State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="U-C-F" puntos="&quot; &quot;"></visitante>
+        <local nome="UTEP" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Colorado" puntos="&quot; &quot;"></visitante>
+        <local nome="Arizona" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Arkansas" puntos="&quot; &quot;"></visitante>
+        <local nome="South Carolina" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Kansas" puntos="&quot; &quot;"></visitante>
+        <local nome="Texas Tech" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Louisiana Tech" puntos="&quot; &quot;"></visitante>
+        <local nome="Texas State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Baylor" puntos="&quot; &quot;"></visitante>
+        <local nome="Oklahoma" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Tulane" puntos="&quot; &quot;"></visitante>
+        <local nome="Memphis" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Oregon State" puntos="&quot; &quot;"></visitante>
+        <local nome="Stanford" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Mississippi State" puntos="&quot; &quot;"></visitante>
+        <local nome="Louisiana State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Fresno State" puntos="&quot; &quot;"></visitante>
+        <local nome="Nevada-Reno" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Florida Atlantic" puntos="&quot; &quot;"></visitante>
+        <local nome="Western Kentucky" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="Navy" puntos="&quot; &quot;"></visitante>
+        <local nome="Troy" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="South Alabama" puntos="&quot; &quot;"></visitante>
+        <local nome="North Texas" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="UL-Lafayette" puntos="&quot; &quot;"></visitante>
+        <local nome="Florida" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="10/11/12">
+        <visitante nome="McNeese State" puntos="&quot; &quot;"></visitante>
+        <local nome="Texas-San Antonio" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="14/11/12">
+        <visitante nome="Ohio" puntos="&quot; &quot;"></visitante>
+        <local nome="Ball State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="14/11/12">
+        <visitante nome="Toledo" puntos="&quot; &quot;"></visitante>
+        <local nome="Northern Illinois" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="15/11/12">
+        <visitante nome="North Carolina" puntos="&quot; &quot;"></visitante>
+        <local nome="Virginia" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="16/11/12">
+        <visitante nome="Hawaii" puntos="&quot; &quot;"></visitante>
+        <local nome="Air Force" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="16/11/12">
+        <visitante nome="Florida Intl" puntos="&quot; &quot;"></visitante>
+        <local nome="Florida Atlantic" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Duke" puntos="&quot; &quot;"></visitante>
+        <local nome="Georgia Tech" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Temple" puntos="&quot; &quot;"></visitante>
+        <local nome="Army" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Kent State" puntos="&quot; &quot;"></visitante>
+        <local nome="Bowling Green" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Virginia Tech" puntos="&quot; &quot;"></visitante>
+        <local nome="Boston College" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Minnesota" puntos="&quot; &quot;"></visitante>
+        <local nome="Nebraska" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Arkansas" puntos="&quot; &quot;"></visitante>
+        <local nome="Mississippi State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="South Florida" puntos="&quot; &quot;"></visitante>
+        <local nome="Miami-Florida" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Purdue" puntos="&quot; &quot;"></visitante>
+        <local nome="Illinois" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Iowa State" puntos="&quot; &quot;"></visitante>
+        <local nome="Kansas" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Houston" puntos="&quot; &quot;"></visitante>
+        <local nome="Marshall" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Florida State" puntos="&quot; &quot;"></visitante>
+        <local nome="Maryland" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Buffalo" puntos="&quot; &quot;"></visitante>
+        <local nome="Massachusetts" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Northwestern" puntos="&quot; &quot;"></visitante>
+        <local nome="Michigan State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="No Carolina State" puntos="&quot; &quot;"></visitante>
+        <local nome="Clemson" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Rutgers" puntos="&quot; &quot;"></visitante>
+        <local nome="Cincinnati" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Indiana" puntos="&quot; &quot;"></visitante>
+        <local nome="Penn State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Tennessee" puntos="&quot; &quot;"></visitante>
+        <local nome="Vanderbilt" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Miami-Ohio" puntos="&quot; &quot;"></visitante>
+        <local nome="Central Michigan" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Memphis" puntos="&quot; &quot;"></visitante>
+        <local nome="U-A-B" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Eastern Michigan" puntos="&quot; &quot;"></visitante>
+        <local nome="Western Michigan" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Oklahoma" puntos="&quot; &quot;"></visitante>
+        <local nome="West Virginia" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Southern Cal" puntos="&quot; &quot;"></visitante>
+        <local nome="U.C.L.A." puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Colorado State" puntos="&quot; &quot;"></visitante>
+        <local nome="Boise State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Texas State" puntos="&quot; &quot;"></visitante>
+        <local nome="Navy" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Kansas State" puntos="&quot; &quot;"></visitante>
+        <local nome="Baylor" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Nevada-Reno" puntos="&quot; &quot;"></visitante>
+        <local nome="New Mexico" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Wake Forest" puntos="&quot; &quot;"></visitante>
+        <local nome="Notre Dame" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Stanford" puntos="&quot; &quot;"></visitante>
+        <local nome="Oregon" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="California" puntos="&quot; &quot;"></visitante>
+        <local nome="Oregon State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="S-M-U" puntos="&quot; &quot;"></visitante>
+        <local nome="Rice" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="East Carolina" puntos="&quot; &quot;"></visitante>
+        <local nome="Tulane" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="U-C-F" puntos="&quot; &quot;"></visitante>
+        <local nome="Tulsa" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Iowa" puntos="&quot; &quot;"></visitante>
+        <local nome="Michigan" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Washington" puntos="&quot; &quot;"></visitante>
+        <local nome="Colorado" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Brigham Young" puntos="&quot; &quot;"></visitante>
+        <local nome="San Jose State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Wyoming" puntos="&quot; &quot;"></visitante>
+        <local nome="Nevada-Las Vegas" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Texas-San Antonio" puntos="&quot; &quot;"></visitante>
+        <local nome="Idaho" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Arizona" puntos="&quot; &quot;"></visitante>
+        <local nome="Utah" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Syracuse" puntos="&quot; &quot;"></visitante>
+        <local nome="Missouri" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Texas Tech" puntos="&quot; &quot;"></visitante>
+        <local nome="Oklahoma State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Utah State" puntos="&quot; &quot;"></visitante>
+        <local nome="Louisiana Tech" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Ohio State" puntos="&quot; &quot;"></visitante>
+        <local nome="Wisconsin" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Mississippi" puntos="&quot; &quot;"></visitante>
+        <local nome="Louisiana State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="UTEP" puntos="&quot; &quot;"></visitante>
+        <local nome="Southern Miss" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Washington State" puntos="&quot; &quot;"></visitante>
+        <local nome="Arizona State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Arkansas State" puntos="&quot; &quot;"></visitante>
+        <local nome="Troy" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="North Texas" puntos="&quot; &quot;"></visitante>
+        <local nome="UL-Monroe" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Middle Tennessee" puntos="&quot; &quot;"></visitante>
+        <local nome="South Alabama" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Western Kentucky" puntos="&quot; &quot;"></visitante>
+        <local nome="UL-Lafayette" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Western Carolina" puntos="&quot; &quot;"></visitante>
+        <local nome="Alabama" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Georgia Southern" puntos="&quot; &quot;"></visitante>
+        <local nome="Georgia" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Wofford" puntos="&quot; &quot;"></visitante>
+        <local nome="South Carolina" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Jacksonville St" puntos="&quot; &quot;"></visitante>
+        <local nome="Florida" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Alabama A+M" puntos="&quot; &quot;"></visitante>
+        <local nome="Auburn" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Samford" puntos="&quot; &quot;"></visitante>
+        <local nome="Kentucky" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="17/11/12">
+        <visitante nome="Sam Houston State" puntos="&quot; &quot;"></visitante>
+        <local nome="Texas A+M" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="20/11/12">
+        <visitante nome="Akron" puntos="&quot; &quot;"></visitante>
+        <local nome="Toledo" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="Nebraska" puntos="&quot; &quot;"></visitante>
+        <local nome="Iowa" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="Buffalo" puntos="&quot; &quot;"></visitante>
+        <local nome="Bowling Green" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="Central Michigan" puntos="&quot; &quot;"></visitante>
+        <local nome="Massachusetts" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="Ball State" puntos="&quot; &quot;"></visitante>
+        <local nome="Miami-Ohio" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="Syracuse" puntos="&quot; &quot;"></visitante>
+        <local nome="Temple" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="Northern Illinois" puntos="&quot; &quot;"></visitante>
+        <local nome="Eastern Michigan" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="South Florida" puntos="&quot; &quot;"></visitante>
+        <local nome="Cincinnati" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="Marshall" puntos="&quot; &quot;"></visitante>
+        <local nome="East Carolina" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="Ohio" puntos="&quot; &quot;"></visitante>
+        <local nome="Kent State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="Louisiana State" puntos="&quot; &quot;"></visitante>
+        <local nome="Arkansas" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="Utah" puntos="&quot; &quot;"></visitante>
+        <local nome="Colorado" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="West Virginia" puntos="&quot; &quot;"></visitante>
+        <local nome="Iowa State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="Washington" puntos="&quot; &quot;"></visitante>
+        <local nome="Washington State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="Texas Christian" puntos="&quot; &quot;"></visitante>
+        <local nome="Texas" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="23/11/12">
+        <visitante nome="Arizona State" puntos="&quot; &quot;"></visitante>
+        <local nome="Arizona" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Michigan" puntos="&quot; &quot;"></visitante>
+        <local nome="Ohio State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Vanderbilt" puntos="&quot; &quot;"></visitante>
+        <local nome="Wake Forest" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Connecticut" puntos="&quot; &quot;"></visitante>
+        <local nome="Louisville" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Georgia Tech" puntos="&quot; &quot;"></visitante>
+        <local nome="Georgia" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Maryland" puntos="&quot; &quot;"></visitante>
+        <local nome="North Carolina" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Virginia" puntos="&quot; &quot;"></visitante>
+        <local nome="Virginia Tech" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Michigan State" puntos="&quot; &quot;"></visitante>
+        <local nome="Minnesota" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Miami-Florida" puntos="&quot; &quot;"></visitante>
+        <local nome="Duke" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Illinois" puntos="&quot; &quot;"></visitante>
+        <local nome="Northwestern" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Boston College" puntos="&quot; &quot;"></visitante>
+        <local nome="No Carolina State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Kentucky" puntos="&quot; &quot;"></visitante>
+        <local nome="Tennessee" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Wisconsin" puntos="&quot; &quot;"></visitante>
+        <local nome="Penn State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Rutgers" puntos="&quot; &quot;"></visitante>
+        <local nome="Pittsburgh" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Indiana" puntos="&quot; &quot;"></visitante>
+        <local nome="Purdue" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Texas State" puntos="&quot; &quot;"></visitante>
+        <local nome="Texas-San Antonio" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Idaho" puntos="&quot; &quot;"></visitante>
+        <local nome="Utah State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="San Diego State" puntos="&quot; &quot;"></visitante>
+        <local nome="Wyoming" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Texas Tech" puntos="&quot; &quot;"></visitante>
+        <local nome="Baylor" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Auburn" puntos="&quot; &quot;"></visitante>
+        <local nome="Alabama" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Mississippi State" puntos="&quot; &quot;"></visitante>
+        <local nome="Mississippi" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Stanford" puntos="&quot; &quot;"></visitante>
+        <local nome="U.C.L.A." puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Brigham Young" puntos="&quot; &quot;"></visitante>
+        <local nome="New Mexico State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Air Force" puntos="&quot; &quot;"></visitante>
+        <local nome="Fresno State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Oklahoma State" puntos="&quot; &quot;"></visitante>
+        <local nome="Oklahoma" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Missouri" puntos="&quot; &quot;"></visitante>
+        <local nome="Texas A+M" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Oregon" puntos="&quot; &quot;"></visitante>
+        <local nome="Oregon State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Tulsa" puntos="&quot; &quot;"></visitante>
+        <local nome="S-M-U" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Florida" puntos="&quot; &quot;"></visitante>
+        <local nome="Florida State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Louisiana Tech" puntos="&quot; &quot;"></visitante>
+        <local nome="San Jose State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Southern Miss" puntos="&quot; &quot;"></visitante>
+        <local nome="Memphis" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Tulane" puntos="&quot; &quot;"></visitante>
+        <local nome="Houston" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="New Mexico" puntos="&quot; &quot;"></visitante>
+        <local nome="Colorado State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Rice" puntos="&quot; &quot;"></visitante>
+        <local nome="UTEP" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="South Carolina" puntos="&quot; &quot;"></visitante>
+        <local nome="Clemson" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="U-A-B" puntos="&quot; &quot;"></visitante>
+        <local nome="U-C-F" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Notre Dame" puntos="&quot; &quot;"></visitante>
+        <local nome="Southern Cal" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Nevada-Las Vegas" puntos="&quot; &quot;"></visitante>
+        <local nome="Hawaii" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="North Texas" puntos="&quot; &quot;"></visitante>
+        <local nome="Western Kentucky" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="Troy" puntos="&quot; &quot;"></visitante>
+        <local nome="Middle Tennessee" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="South Alabama" puntos="&quot; &quot;"></visitante>
+        <local nome="UL-Lafayette" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="24/11/12">
+        <visitante nome="UL-Monroe" puntos="&quot; &quot;"></visitante>
+        <local nome="Florida Intl" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="29/11/12">
+        <visitante nome="Louisville" puntos="&quot; &quot;"></visitante>
+        <local nome="Rutgers" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="30/11/12">
+        <visitante nome="Oregon" puntos="&quot; &quot;"></visitante>
+        <local nome="Southern Cal" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="Cincinnati" puntos="&quot; &quot;"></visitante>
+        <local nome="Connecticut" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="Pittsburgh" puntos="&quot; &quot;"></visitante>
+        <local nome="South Florida" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="Oklahoma" puntos="&quot; &quot;"></visitante>
+        <local nome="Texas Christian" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="Texas" puntos="&quot; &quot;"></visitante>
+        <local nome="Kansas State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="Oklahoma State" puntos="&quot; &quot;"></visitante>
+        <local nome="Baylor" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="Boise State" puntos="&quot; &quot;"></visitante>
+        <local nome="Nevada-Reno" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="Kansas" puntos="&quot; &quot;"></visitante>
+        <local nome="West Virginia" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="New Mexico State" puntos="&quot; &quot;"></visitante>
+        <local nome="Texas State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="Middle Tennessee" puntos="&quot; &quot;"></visitante>
+        <local nome="Arkansas State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="UL-Lafayette" puntos="&quot; &quot;"></visitante>
+        <local nome="Florida Atlantic" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="South Alabama" puntos="&quot; &quot;"></visitante>
+        <local nome="Hawaii" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="East Carolina" puntos="&quot; &quot;"></visitante>
+        <local nome="Tulsa" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="Florida" puntos="&quot; &quot;"></visitante>
+        <local nome="Alabama" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="Kent State" puntos="&quot; &quot;"></visitante>
+        <local nome="Toledo" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="Duke" puntos="&quot; &quot;"></visitante>
+        <local nome="Florida State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="Wisconsin" puntos="&quot; &quot;"></visitante>
+        <local nome="Nebraska" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="01/12/12">
+        <visitante nome="Nicholls State" puntos="&quot; &quot;"></visitante>
+        <local nome="Oregon State" puntos="&quot; &quot;"></local>
+    </partido>
+    <partido data="08/12/12">
+        <visitante nome="Navy" puntos="&quot; &quot;"></visitante>
+        <local nome="Army" puntos="&quot; &quot;"></local>
+    </partido>
+</liga>
